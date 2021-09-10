@@ -1,0 +1,55 @@
+#
+#  Test the knapsack optimizer
+#
+
+#  1000 iterations
+echo "20 particles, 1000 iterations"
+echo "RO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 RO RI
+echo "PSO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 PSO RI
+echo "DE:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 DE RI
+echo "GWO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 GWO RI
+echo "Jaya:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 JAYA RI
+echo "GA:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 1000 GA RI
+echo
+echo
+
+# 100 particles, 1000 iterations
+echo "100 particles, 1000 iterations"
+echo "RO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 RO RI
+echo "PSO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 PSO RI
+echo "DE:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 DE RI
+echo "GWO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 GWO RI
+echo "Jaya:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 JAYA RI
+echo "GA:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 100 1000 GA RI
+echo
+echo
+
+#  5000 iterations
+echo "20 particles, 5000 iterations"
+echo "RO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 RO RI
+echo "PSO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 PSO RI
+echo "DE:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 DE RI
+echo "GWO:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 GWO RI
+echo "Jaya:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 JAYA RI
+echo "GA:"
+python3 knapsack.py examples/low-dimensional/f2_l-d_kp_20_878 20 5000 GA RI
+echo
+echo
+

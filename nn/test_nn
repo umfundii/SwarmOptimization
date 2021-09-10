@@ -1,0 +1,101 @@
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run1.txt
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run2.txt
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run3.txt
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run4.txt
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run5.txt
+python3 -W ignore nn.py 30 1000 RI >results/nn_30_1000_RI_run6.txt
+
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run1.txt
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run2.txt
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run3.txt
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run4.txt
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run5.txt
+python3 -W ignore nn.py 30 1000 SI >results/nn_30_1000_SI_run6.txt
+
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run1.txt
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run2.txt
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run3.txt
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run4.txt
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run5.txt
+python3 -W ignore nn.py 30 1000 QI >results/nn_30_1000_QI_run6.txt
+
+
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run1.txt
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run2.txt
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run3.txt
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run4.txt
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run5.txt
+python3 -W ignore nn.py 30 3000 RI >results/nn_30_3000_RI_run6.txt
+
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run1.txt
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run2.txt
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run3.txt
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run4.txt
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run5.txt
+python3 -W ignore nn.py 30 3000 SI >results/nn_30_3000_SI_run6.txt
+
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run1.txt
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run2.txt
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run3.txt
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run4.txt
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run5.txt
+python3 -W ignore nn.py 30 3000 QI >results/nn_30_3000_QI_run6.txt
+
+
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run1.txt
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run2.txt
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run3.txt
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run4.txt
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run5.txt
+python3 -W ignore nn.py 100 1000 RI >results/nn_100_1000_RI_run6.txt
+
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run1.txt
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run2.txt
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run3.txt
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run4.txt
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run5.txt
+python3 -W ignore nn.py 100 1000 SI >results/nn_100_1000_SI_run6.txt
+
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run1.txt
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run2.txt
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run3.txt
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run4.txt
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run5.txt
+python3 -W ignore nn.py 100 1000 QI >results/nn_100_1000_QI_run6.txt
+
+
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run1.txt
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run2.txt
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run3.txt
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run4.txt
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run5.txt
+python3 -W ignore nn.py 100 3000 RI >results/nn_100_3000_RI_run6.txt
+
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run1.txt
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run2.txt
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run3.txt
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run4.txt
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run5.txt
+python3 -W ignore nn.py 100 3000 SI >results/nn_100_3000_SI_run6.txt
+
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run1.txt
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run2.txt
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run3.txt
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run4.txt
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run5.txt
+python3 -W ignore nn.py 100 3000 QI >results/nn_100_3000_QI_run6.txt
+
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run1.txt
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run2.txt
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run3.txt
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run4.txt
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run5.txt
+python3 -W ignore nn.py 100 6000 QI >results/nn_100_6000_QI_run6.txt
+
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run1.txt
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run2.txt
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run3.txt
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run4.txt
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run5.txt
+python3 -W ignore nn.py 200 6000 QI >results/nn_200_6000_QI_run6.txt
+

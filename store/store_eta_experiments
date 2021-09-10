@@ -1,0 +1,124 @@
+#
+#  RO eta experiments
+#
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run0
+mv ro_eta_*.* ro_eta_run0/.
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run1
+mv ro_eta_*.* ro_eta_run1/.
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run2
+mv ro_eta_*.* ro_eta_run2/.
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run3
+mv ro_eta_*.* ro_eta_run3/.
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run4
+mv ro_eta_*.* ro_eta_run4/.
+
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.01 >ro_eta_0.01.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.03 >ro_eta_0.03.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.05 >ro_eta_0.05.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.10 >ro_eta_0.10.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.13 >ro_eta_0.13.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.15 >ro_eta_0.15.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.20 >ro_eta_0.20.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.25 >ro_eta_0.25.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.30 >ro_eta_0.30.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.40 >ro_eta_0.40.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.50 >ro_eta_0.50.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.60 >ro_eta_0.60.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.70 >ro_eta_0.70.txt
+#python3 store_ro.py products.pkl 50 30 4000 RI 0.80 >ro_eta_0.80.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.00 >ro_eta_1.00.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 1.50 >ro_eta_1.50.txt
+python3 store_ro.py products.pkl 50 30 4000 RI 2.00 >ro_eta_2.00.txt
+#mkdir ro_eta_run5
+mv ro_eta_*.* ro_eta_run5/.
+

@@ -1,0 +1,139 @@
+#
+#  file:  store_experiments
+#
+#  Simulate the store with each algorithm
+#
+#  RTK, 07-Jan-2020
+#  Last update:  19-Sep-2020
+#
+################################################################
+
+#rm -rf pso_results de_results ro_results gwo_results jaya_results ga_results
+#mkdir pso_results de_results ro_results gwo_results jaya_results ga_results
+
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run0
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run1
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run2
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run3
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run4
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run5
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run6
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run7
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run8
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run9
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run10
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run11
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run12
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run13
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run14
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run15
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run16
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run17
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run18
+python3 store.py products.pkl 50 30 4000 PSO RI >pso_results/pso_run19
+
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run0
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run1
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run2
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run3
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run4
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run5
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run6
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run7
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run8
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run9
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run10
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run11
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run12
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run13
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run14
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run15
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run16
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run17
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run18
+python3 store.py products.pkl 50 30 4000 DE RI >de_results/de_run19
+
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run0
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run1
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run2
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run3
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run4
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run5
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run6
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run7
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run8
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run9
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run10
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run11
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run12
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run13
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run14
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run15
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run16
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run17
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run18
+python3 store.py products.pkl 50 30 4000 RO RI >ro_results/ro_run19
+
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run0
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run1
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run2
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run3
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run4
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run5
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run6
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run7
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run8
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run9
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run10
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run11
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run12
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run13
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run14
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run15
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run16
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run17
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run18
+python3 store.py products.pkl 50 30 4000 GWO RI >gwo_results/gwo_run19
+
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run0
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run1
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run2
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run3
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run4
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run5
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run6
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run7
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run8
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run9
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run10
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run11
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run12
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run13
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run14
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run15
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run16
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run17
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run18
+python3 store.py products.pkl 50 30 4000 JAYA RI >jaya_results/jaya_run19
+
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run0
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run1
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run2
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run3
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run4
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run5
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run6
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run7
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run8
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run9
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run10
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run11
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run12
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run13
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run14
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run15
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run16
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run17
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run18
+python3 store.py products.pkl 50 30 4000 GA RI >ga_results/ga_run19
+

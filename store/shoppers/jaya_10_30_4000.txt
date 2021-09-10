@@ -1,0 +1,38 @@
+
+Maximum daily revenue $54.98 (time 192.269 seconds)
+(11 best updates, 120030 function evaluations)
+
+Product order:
+                  berries  ( 1.9%) ($1.98)
+                    candy  ( 1.7%) ($2.23)
+                 UHT-milk  ( 1.9%) ($1.87)
+                chocolate  ( 2.8%) ($1.42)
+             bottled beer  ( 4.6%) ($1.06)
+             cream cheese  ( 2.3%) ($1.57)
+                  chicken  ( 2.4%) ($1.49)
+    fruit/vegetable juice  ( 4.1%) ($1.11)
+                  dessert  ( 2.1%) ($1.76)
+                   pastry  ( 5.1%) ($1.04)
+              salty snack  ( 2.1%) ($1.66)
+          misc. beverages  ( 1.6%) ($2.37)
+              frankfurter  ( 3.4%) ($1.19)
+                   coffee  ( 3.3%) ($1.23)
+            shopping bags  ( 5.6%) ($1.02)
+                   onions  ( 1.8%) ($2.10)
+              brown bread  ( 3.7%) ($1.15)
+               rolls/buns  (10.5%) ($1.00)
+                   butter  ( 3.1%) ($1.29)
+                     beef  ( 3.0%) ($1.35)
+                   yogurt  ( 7.9%) ($1.01)
+              canned beer  ( 4.4%) ($1.08)
+          root vegetables  ( 6.2%) ($1.01)
+               whole milk  (14.5%) ($1.00)
+
+milk rank = 23
+candy rank = 1
+
+Upper half median probability of being selected =  2.2
+                           median product value = 1.62
+Lower half median probability of being selected =  4.1
+                           median product value = 1.11
+

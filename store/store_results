@@ -1,0 +1,13 @@
+python3 store_save.py products.pkl 50 30 4000 RO   RI >results/ro.txt
+mv results.pkl results/ro_results.pkl
+python3 store_save.py products.pkl 50 30 4000 DE   RI >results/de.txt
+mv results.pkl results/de_results.pkl
+python3 store_save.py products.pkl 50 30 4000 PSO  RI >results/pso.txt
+mv results.pkl results/pso_results.pkl
+python3 store_save.py products.pkl 50 30 4000 GWO  RI >results/gwo.txt
+mv results.pkl results/gwo_results.pkl
+python3 store_save.py products.pkl 50 30 4000 JAYA RI >results/jaya.txt
+mv results.pkl results/jaya_results.pkl
+python3 store_save.py products.pkl 50 30 4000 GA   RI >results/ga.txt
+mv results.pkl results/ga_results.pkl
+

@@ -1,0 +1,2716 @@
+RO:
+
+Minimum mean total squared error: 11.142478160  (chwirut1.txt)
+Parameters:
+ 0:    0.1899188237921413
+ 1:    0.0061267590080468
+ 2:    0.0105463973653129
+(262 best updates, 200020 function calls, time: 14.822 seconds)
+
+
+Minimum mean total squared error: 11.142456547  (chwirut1.txt)
+Parameters:
+ 0:    0.1900983324744299
+ 1:    0.0061265821316562
+ 2:    0.0105424121645612
+(249 best updates, 200020 function calls, time: 14.784 seconds)
+
+
+Minimum mean total squared error: 11.142487734  (chwirut1.txt)
+Parameters:
+ 0:    0.1895944935330225
+ 1:    0.0061210491806048
+ 2:    0.0105579209572256
+(261 best updates, 200020 function calls, time: 15.125 seconds)
+
+
+Minimum mean total squared error: 11.142453261  (chwirut1.txt)
+Parameters:
+ 0:    0.1899559773617444
+ 1:    0.0061253850241347
+ 2:    0.0105419086152311
+(172 best updates, 200020 function calls, time: 14.981 seconds)
+
+
+Minimum mean total squared error: 11.142427225  (chwirut1.txt)
+Parameters:
+ 0:    0.1904764383162477
+ 1:    0.0061346085046853
+ 2:    0.0105222690570110
+(159 best updates, 200020 function calls, time: 15.377 seconds)
+
+
+Minimum mean total squared error: 0.019991321  (eckerle4.txt)
+Parameters:
+ 0:    4.6583148496314060
+ 1:    4.1925659202319370
+ 2:  382.3489824271214275
+(18 best updates, 200020 function calls, time: 15.493 seconds)
+
+
+Minimum mean total squared error: 0.012268737  (eckerle4.txt)
+Parameters:
+ 0:    1.3425204507382531
+ 1:    0.3398831056924035
+ 2:  452.2518430951150208
+(34 best updates, 200020 function calls, time: 14.896 seconds)
+
+
+Minimum mean total squared error: 0.019990624  (eckerle4.txt)
+Parameters:
+ 0:    4.4445063285944286
+ 1:    0.6282633315498757
+ 2:  432.5849849270787217
+(19 best updates, 200020 function calls, time: 14.676 seconds)
+
+
+Minimum mean total squared error: 0.000133113  (eckerle4.txt)
+Parameters:
+ 0:    1.4813165857900545
+ 1:    3.7461375443870795
+ 2:  451.7175676770092991
+(168 best updates, 200020 function calls, time: 14.545 seconds)
+
+
+Minimum mean total squared error: 0.019991321  (eckerle4.txt)
+Parameters:
+ 0:    0.9791846617610606
+ 1:    4.9684326491896531
+ 2:  381.2449855102694869
+(23 best updates, 200020 function calls, time: 15.173 seconds)
+
+
+Minimum mean total squared error: 5.926146960  (ENSO.txt)
+Parameters:
+ 0:   10.6722332699135816
+ 1:    3.1272738765808041
+ 2:    0.5585718935888496
+ 3:   39.9728616301529911
+ 4:   -0.2036499806175958
+ 5:   -1.3224139138622004
+ 6:   16.8467185266426895
+ 7:    0.0539911138457047
+ 8:   -0.5452555812522391
+(96 best updates, 200020 function calls, time: 45.105 seconds)
+
+
+Minimum mean total squared error: 6.037648506  (ENSO.txt)
+Parameters:
+ 0:   10.6578899928273767
+ 1:    3.0153445258490881
+ 2:    0.4577596041982286
+ 3:   37.2377707069666428
+ 4:    1.1491585732122194
+ 5:   -0.5971060375275421
+ 6:   24.2839613027220267
+ 7:    0.0815634512708564
+ 8:   -0.5599501048671214
+(89 best updates, 200020 function calls, time: 44.689 seconds)
+
+
+Minimum mean total squared error: 5.858715337  (ENSO.txt)
+Parameters:
+ 0:   10.5442693890190053
+ 1:    3.0240165038779567
+ 2:    0.5629298295912624
+ 3:   44.6856404442165882
+ 4:   -1.3140009822894327
+ 5:    0.6907471376563723
+ 6:   18.6315191195015117
+ 7:    0.3498642537622642
+ 8:   -0.4581142241453164
+(145 best updates, 200020 function calls, time: 44.246 seconds)
+
+
+Minimum mean total squared error: 5.902013811  (ENSO.txt)
+Parameters:
+ 0:   10.7210265876514814
+ 1:    3.0334241888763596
+ 2:    0.5563678889708426
+ 3:   37.3669825584060291
+ 4:    1.1754959421879023
+ 5:   -0.6649669149454442
+ 6:   24.6958806283844829
+ 7:   -0.3313924614583132
+ 8:   -0.4286861380442153
+(106 best updates, 200020 function calls, time: 45.444 seconds)
+
+
+Minimum mean total squared error: 5.693878539  (ENSO.txt)
+Parameters:
+ 0:   10.6822963985253701
+ 1:    3.0266293448884771
+ 2:    0.4862412431846597
+ 3:   41.4293947419111177
+ 4:   -0.8375854305523562
+ 5:   -0.9024514619490165
+ 6:    4.5246179385943126
+ 7:    0.1802060183417481
+ 8:    0.6390839360583893
+(41 best updates, 200020 function calls, time: 45.282 seconds)
+
+
+Minimum mean total squared error: 5.674224182  (gauss1.txt)
+Parameters:
+ 0:   97.4713771392770667
+ 1:    0.0101262635949806
+ 2:  100.1042667619131521
+ 3:   67.3541949429703806
+ 4:   23.2295395782452303
+ 5:   71.8729777343793330
+ 6:  178.8889069184389200
+ 7:   17.8652784689560136
+(361 best updates, 200020 function calls, time: 28.273 seconds)
+
+
+Minimum mean total squared error: 5.456907547  (gauss1.txt)
+Parameters:
+ 0:   98.5970948589723548
+ 1:    0.0104897873131867
+ 2:   99.8233987734645893
+ 3:   67.2340086636663443
+ 4:   23.3201240616920238
+ 5:   72.3548406928742054
+ 6:  178.9224675391953099
+ 7:   18.4137833187516478
+(191 best updates, 200020 function calls, time: 27.892 seconds)
+
+
+Minimum mean total squared error: 324.961683864  (gauss1.txt)
+Parameters:
+ 0:   90.3429074601055930
+ 1:    0.0057874282645346
+ 2:   89.5397294130322479
+ 3:   66.7115464534510778
+ 4:   19.7764652323273999
+ 5:    2.2043493874686764
+ 6:   43.9564106827566832
+ 7:   15.4592690138297684
+(196 best updates, 200020 function calls, time: 27.696 seconds)
+
+
+Minimum mean total squared error: 5.640983090  (gauss1.txt)
+Parameters:
+ 0:   99.0826814510264455
+ 1:    0.0107701427041195
+ 2:  100.6289140464080560
+ 3:   67.3294206233862411
+ 4:   23.2601655804269747
+ 5:   71.7998599944554599
+ 6:  178.7412444621062946
+ 7:   18.6508540824128168
+(275 best updates, 200020 function calls, time: 28.159 seconds)
+
+
+Minimum mean total squared error: 5.705924370  (gauss1.txt)
+Parameters:
+ 0:   99.3051295246082617
+ 1:    0.0105628878977217
+ 2:  100.5479871367489864
+ 3:   67.2201164640422206
+ 4:   23.0059332099577176
+ 5:   71.1053357749676280
+ 6:  179.2323179022417321
+ 7:   18.2858543920590400
+(319 best updates, 200020 function calls, time: 28.014 seconds)
+
+
+Minimum mean total squared error: 302.572020436  (gauss2.txt)
+Parameters:
+ 0:   85.5967206380341139
+ 1:    0.0056369291774923
+ 2:   85.5319570444471111
+ 3:  109.9530647297073926
+ 4:   24.9781056735447784
+ 5:   19.2069790130656735
+ 6:    1.3398340789745278
+ 7:    7.2335606052790755
+(218 best updates, 200020 function calls, time: 28.610 seconds)
+
+
+Minimum mean total squared error: 355.232533536  (gauss2.txt)
+Parameters:
+ 0:   90.6570505259557819
+ 1:    0.0053997915610574
+ 2:   33.3292282985695607
+ 3:   95.1674866671612847
+ 4:    2.8630989895938108
+ 5:   74.8143546485406290
+ 6:  111.7638165436131743
+ 7:   19.9429405263740200
+(224 best updates, 200020 function calls, time: 27.911 seconds)
+
+
+Minimum mean total squared error: 378.746187500  (gauss2.txt)
+Parameters:
+ 0:   86.0112374998155076
+ 1:    0.0048660610670117
+ 2:    5.6255339491545007
+ 3:   32.8139994771618433
+ 4:   21.5855871084015156
+ 5:   74.9086174731952497
+ 6:  109.4813078075312092
+ 7:   19.9818840706063234
+(136 best updates, 200020 function calls, time: 28.217 seconds)
+
+
+Minimum mean total squared error: 364.784215249  (gauss2.txt)
+Parameters:
+ 0:   91.6797586118422174
+ 1:    0.0052761393402872
+ 2:    3.5354190105182366
+ 3:   75.7739831773500185
+ 4:    0.1129846370596730
+ 5:   74.9213038338155570
+ 6:  109.6279173737855501
+ 7:   19.9709905742525820
+(117 best updates, 200020 function calls, time: 27.720 seconds)
+
+
+Minimum mean total squared error: 5.785247867  (gauss2.txt)
+Parameters:
+ 0:   97.1782663993317328
+ 1:    0.0108261101642386
+ 2:  103.8464454557503558
+ 3:  106.6503713558617648
+ 4:   23.0805069959896940
+ 5:   71.5285300983231735
+ 6:  152.9309832156665721
+ 7:   19.7283930037885504
+(179 best updates, 200020 function calls, time: 28.295 seconds)
+
+
+Minimum mean total squared error: 0.441037755  (hahn1.txt)
+Parameters:
+ 0:    0.0776149033123651
+ 1:   -0.9614746151198789
+ 2:    0.2412653439549693
+ 3:   -0.0068866416719549
+ 4:   -0.9916754977549416
+ 5:    0.0023322888042566
+ 6:   -0.0003506605632809
+(373 best updates, 200020 function calls, time: 30.555 seconds)
+
+
+Minimum mean total squared error: 0.380853906  (hahn1.txt)
+Parameters:
+ 0:    0.5655557178244562
+ 1:   -0.8606339043714378
+ 2:    0.2197560622395954
+ 3:   -0.0065805557089414
+ 4:   -0.9996676266241901
+ 5:    0.0013582651017012
+ 6:   -0.0003347516314696
+(392 best updates, 200020 function calls, time: 30.461 seconds)
+
+
+Minimum mean total squared error: 0.469022796  (hahn1.txt)
+Parameters:
+ 0:    0.5167796996872802
+ 1:   -0.2701764543455039
+ 2:    0.1995060392191987
+ 3:   -0.0061908127818403
+ 4:   -0.9977141999245667
+ 5:    0.0019847822456218
+ 6:   -0.0003173560883732
+(413 best updates, 200020 function calls, time: 30.441 seconds)
+
+
+Minimum mean total squared error: 0.495775778  (hahn1.txt)
+Parameters:
+ 0:    0.3655127230669417
+ 1:   -0.9583602585282431
+ 2:    0.2701944762957008
+ 3:   -0.0078697025583220
+ 4:   -0.9965713542959901
+ 5:    0.0021506125904825
+ 6:   -0.0004045656875511
+(313 best updates, 200020 function calls, time: 30.508 seconds)
+
+
+Minimum mean total squared error: 0.421272617  (hahn1.txt)
+Parameters:
+ 0:    0.6361001326516428
+ 1:   -0.9963244209206638
+ 2:    0.2491780788034990
+ 3:   -0.0071930811892828
+ 4:   -0.9854118269492397
+ 5:    0.0016187972425373
+ 6:   -0.0003670456638553
+(393 best updates, 200020 function calls, time: 30.051 seconds)
+
+
+Minimum mean total squared error: 0.109656676  (sinexp.txt)
+Parameters:
+ 0:    1.5464886167053047
+ 1:    2.9984381385950862
+ 2:   19.9996501417234782
+ 3:    8.0010024350508129
+ 4:    0.6394284752243656
+(146 best updates, 200020 function calls, time: 17.505 seconds)
+
+
+Minimum mean total squared error: 0.946099751  (sinexp.txt)
+Parameters:
+ 0:   -0.5545371222268389
+ 1:   -2.9824888720802529
+ 2:   18.8313348156642739
+ 3:    8.0163763519437747
+ 4:    0.7108474628270900
+(81 best updates, 200020 function calls, time: 17.830 seconds)
+
+
+Minimum mean total squared error: 0.004404445  (sinexp.txt)
+Parameters:
+ 0:    2.0761356205234169
+ 1:    3.0017738923867778
+ 2:   20.0403421452773500
+ 3:    8.0044504386792763
+ 4:    0.5987837790585329
+(67 best updates, 200020 function calls, time: 18.178 seconds)
+
+
+Minimum mean total squared error: 0.015285979  (sinexp.txt)
+Parameters:
+ 0:    1.8329702415574964
+ 1:    3.0067122945735298
+ 2:   19.9605961942900869
+ 3:    7.9940174485193563
+ 4:    0.6115685368356523
+(68 best updates, 200020 function calls, time: 17.682 seconds)
+
+
+Minimum mean total squared error: 0.004592753  (sinexp.txt)
+Parameters:
+ 0:   -1.9978791866239394
+ 1:   -3.0070154470495272
+ 2:   19.9969722029491130
+ 3:    8.0045809784670965
+ 4:    0.6011231170818724
+(76 best updates, 200020 function calls, time: 17.725 seconds)
+
+
+Minimum mean total squared error: 631.055896964  (thurber.txt)
+Parameters:
+ 0: 1310.7281622335253815
+ 1: 1205.2000003844941602
+ 2:  366.0299463247623066
+ 3:   35.2469516404093000
+ 4:    0.6858930030411594
+ 5:    0.2782904209545864
+ 6:    0.0391801170023967
+(216 best updates, 200020 function calls, time: 22.473 seconds)
+
+
+Minimum mean total squared error: 1089.083587370  (thurber.txt)
+Parameters:
+ 0: 1313.0593947328468403
+ 1: 1435.7025741732209099
+ 2:  523.9337401714203679
+ 3:   65.2410942373853686
+ 4:    0.8336975231521966
+ 5:    0.3516600538990312
+ 6:    0.0846652722298896
+(88 best updates, 200020 function calls, time: 22.654 seconds)
+
+
+Minimum mean total squared error: 223.843564719  (thurber.txt)
+Parameters:
+ 0: 1293.6618732537001506
+ 1: 1338.4184613364323013
+ 2:  462.7575294819149008
+ 3:   51.3045401989778966
+ 4:    0.8395321421568521
+ 5:    0.3322486083203847
+ 6:    0.0332719131898320
+(100 best updates, 200020 function calls, time: 22.764 seconds)
+
+
+Minimum mean total squared error: 243.117187331  (thurber.txt)
+Parameters:
+ 0: 1286.9357175791924419
+ 1: 1322.0783986039518823
+ 2:  475.3060897458857994
+ 3:   56.4436849111434142
+ 4:    0.8401202066850411
+ 5:    0.3536986326394730
+ 6:    0.0260974643145624
+(61 best updates, 200020 function calls, time: 22.928 seconds)
+
+
+Minimum mean total squared error: 236.566050831  (thurber.txt)
+Parameters:
+ 0: 1298.1475500243263923
+ 1: 1304.3414233458256604
+ 2:  451.4702163284791254
+ 3:   51.1301181059428203
+ 4:    0.8111648195430244
+ 5:    0.3372922183682692
+ 6:    0.0294190961913197
+(110 best updates, 200020 function calls, time: 22.675 seconds)
+
+===============================================================================
+
+PSO:
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781815545735
+ 1:    0.0061314004008486
+ 2:    0.0105309084951785
+(367 best updates, 200020 function calls, time: 18.255 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781803085925
+ 1:    0.0061314004112881
+ 2:    0.0105309085046649
+(288 best updates, 200020 function calls, time: 17.813 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781884314334
+ 1:    0.0061314005012331
+ 2:    0.0105309082495136
+(314 best updates, 200020 function calls, time: 18.095 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781840225772
+ 1:    0.0061314004498337
+ 2:    0.0105309084028202
+(357 best updates, 200020 function calls, time: 18.861 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781841055765
+ 1:    0.0061314004665754
+ 2:    0.0105309083605660
+(502 best updates, 200020 function calls, time: 18.189 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827175307785
+ 1:    4.0888321746996938
+ 2:  451.5412184374353046
+(3932 best updates, 200020 function calls, time: 19.602 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827175332121
+ 1:    4.0888321749879477
+ 2:  451.5412184400775573
+(2278 best updates, 200020 function calls, time: 18.907 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827177698544
+ 1:    4.0888321733110979
+ 2:  451.5412184353846214
+(1629 best updates, 200020 function calls, time: 18.870 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827182195764
+ 1:    4.0888321793633011
+ 2:  451.5412184361247228
+(845 best updates, 200020 function calls, time: 19.651 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827172926474
+ 1:    4.0888321761257247
+ 2:  451.5412184401178592
+(584 best updates, 200020 function calls, time: 18.711 seconds)
+
+
+Minimum mean total squared error: 4.693907440  (ENSO.txt)
+Parameters:
+ 0:   10.5141820494599223
+ 1:    3.0759407065565814
+ 2:    0.5329263662524175
+ 3:   44.2224726879544647
+ 4:   -1.6370665998295868
+ 5:    0.4791176504357575
+ 6:   26.8828653558257074
+ 7:    0.2064383126597622
+ 8:    1.4980858484098010
+(4743 best updates, 200020 function calls, time: 50.316 seconds)
+
+
+Minimum mean total squared error: 4.694475653  (ENSO.txt)
+Parameters:
+ 0:   10.5162277204484784
+ 1:    3.0799601437550033
+ 2:    0.5307088348911622
+ 3:   44.1714443013156881
+ 4:   -1.6403807827441916
+ 5:    0.4473747336210699
+ 6:   26.8808368226608714
+ 7:    0.2014737953885306
+ 8:    1.4778729621219391
+(1099 best updates, 200020 function calls, time: 49.888 seconds)
+
+
+Minimum mean total squared error: 4.716149568  (ENSO.txt)
+Parameters:
+ 0:   10.5411679582659907
+ 1:    3.0825447931115484
+ 2:    0.3773552680614431
+ 3:   43.7234690516275890
+ 4:   -1.6760488042809529
+ 5:    0.1706077597760233
+ 6:   26.8080164685543885
+ 7:    0.1022623495410109
+ 8:    1.4963808095096753
+(307 best updates, 200020 function calls, time: 50.471 seconds)
+
+
+Minimum mean total squared error: 4.696829816  (ENSO.txt)
+Parameters:
+ 0:   10.5367951882328015
+ 1:    3.0775411082437314
+ 2:    0.5387000997827822
+ 3:   44.0343138003208878
+ 4:   -1.6577369260768593
+ 5:    0.3707204252992718
+ 6:   26.8221921736010565
+ 7:    0.1076370801311483
+ 8:    1.5042699631883281
+(1514 best updates, 200020 function calls, time: 49.607 seconds)
+
+
+Minimum mean total squared error: 4.708654764  (ENSO.txt)
+Parameters:
+ 0:   10.5317295961732018
+ 1:    3.0664184362317961
+ 2:    0.4806482707334827
+ 3:   43.6049422033662211
+ 4:   -1.6821680531885959
+ 5:    0.1409226563335176
+ 6:   26.8499814339523120
+ 7:    0.1805857196263015
+ 8:    1.5026518430782989
+(1326 best updates, 200020 function calls, time: 50.562 seconds)
+
+
+Minimum mean total squared error: 336.416137445  (gauss1.txt)
+Parameters:
+ 0:   99.2637615650317997
+ 1:    0.0067983474447516
+ 2:   51.9305911015006743
+ 3:   64.5610641784051751
+ 4:   18.7504106465237612
+ 5:   33.9699608352983162
+ 6:   71.0969424565830508
+ 7:   19.2976775077789533
+(14 best updates, 200020 function calls, time: 32.777 seconds)
+
+
+Minimum mean total squared error: 202.787212801  (gauss1.txt)
+Parameters:
+ 0:   96.6139459235547946
+ 1:    0.0070084221047497
+ 2:   66.3228523467179087
+ 3:   66.1524981767087752
+ 4:   15.6248697470375895
+ 5:   65.5864452091422123
+ 6:  180.9905014506921361
+ 7:   11.2613819295968920
+(8 best updates, 200020 function calls, time: 32.763 seconds)
+
+
+Minimum mean total squared error: 193.868726774  (gauss1.txt)
+Parameters:
+ 0:   72.6136981748971522
+ 1:    0.0053851461404819
+ 2:   96.2163772067721368
+ 3:   62.4536642828893491
+ 4:   21.6681534664992661
+ 5:   56.2275662296990717
+ 6:  185.6400792528890520
+ 7:   10.9595548930943156
+(17 best updates, 200020 function calls, time: 32.537 seconds)
+
+
+Minimum mean total squared error: 116.505628392  (gauss1.txt)
+Parameters:
+ 0:   88.0244107941001204
+ 1:    0.0063578035908115
+ 2:   83.4989586855258210
+ 3:   63.2041991532498315
+ 4:   19.3124894956708744
+ 5:   50.9465675108224545
+ 6:  177.0006530701281804
+ 7:   14.7489931580432803
+(15 best updates, 200020 function calls, time: 32.683 seconds)
+
+
+Minimum mean total squared error: 355.272269562  (gauss1.txt)
+Parameters:
+ 0:   78.6361238092974446
+ 1:    0.0045192947515967
+ 2:   64.3364378930341303
+ 3:   57.1303655295090920
+ 4:   17.1049659867585540
+ 5:   43.4235749445211496
+ 6:   75.6352754303634782
+ 7:   15.9705089566455545
+(11 best updates, 200020 function calls, time: 33.020 seconds)
+
+
+Minimum mean total squared error: 145.301042776  (gauss2.txt)
+Parameters:
+ 0:   84.9937845136481087
+ 1:    0.0064117952051271
+ 2:   95.8498443612975137
+ 3:  103.8132684319308510
+ 4:   19.0183964929244453
+ 5:   40.1901936456137108
+ 6:  149.8891452901589503
+ 7:   15.9979792709957263
+(14 best updates, 200020 function calls, time: 33.052 seconds)
+
+
+Minimum mean total squared error: 410.099218083  (gauss2.txt)
+Parameters:
+ 0:   93.7238698029073731
+ 1:    0.0061965582483084
+ 2:   46.0689832870558931
+ 3:  107.8347038723215263
+ 4:   22.7168964188994309
+ 5:   24.2427337456042622
+ 6:  116.2799217855939133
+ 7:   14.3291173181065261
+(18 best updates, 200020 function calls, time: 32.628 seconds)
+
+
+Minimum mean total squared error: 273.851051397  (gauss2.txt)
+Parameters:
+ 0:   83.0887199273587385
+ 1:    0.0046797482496359
+ 2:   49.8046981098972381
+ 3:  104.3047815759586712
+ 4:   20.0139015930369766
+ 5:   53.2778468946244175
+ 6:  148.4328169496234864
+ 7:   15.1334376957804757
+(10 best updates, 200020 function calls, time: 31.938 seconds)
+
+
+Minimum mean total squared error: 365.963814192  (gauss2.txt)
+Parameters:
+ 0:   77.1672700530743469
+ 1:    0.0043682920645293
+ 2:   64.5979353580823670
+ 3:  108.4150817181021722
+ 4:   24.9647244172731959
+ 5:   25.2352444509767722
+ 6:  115.8807446976807967
+ 7:   10.5589500122360640
+(13 best updates, 200020 function calls, time: 32.183 seconds)
+
+
+Minimum mean total squared error: 231.548006933  (gauss2.txt)
+Parameters:
+ 0:   88.3858310684563122
+ 1:    0.0059860974810458
+ 2:   64.1039261199092181
+ 3:  108.5349843498648852
+ 4:   20.9655759633210259
+ 5:   47.1616420067484370
+ 6:  160.2052587702692108
+ 7:   12.4388432766624675
+(19 best updates, 200020 function calls, time: 32.572 seconds)
+
+
+Minimum mean total squared error: 1.343162511  (hahn1.txt)
+Parameters:
+ 0:    0.0223132373418768
+ 1:   -0.9655524231654180
+ 2:    0.0068277102710547
+ 3:    0.1289083352098922
+ 4:    0.9843444484594381
+ 5:    0.7815653520395687
+ 6:    0.0052970484035613
+(35 best updates, 200020 function calls, time: 34.788 seconds)
+
+
+Minimum mean total squared error: 1.364530277  (hahn1.txt)
+Parameters:
+ 0:    0.7733148472795570
+ 1:   -0.6239893332205151
+ 2:    0.0079460215403472
+ 3:    0.1550160055765175
+ 4:    0.9772514723527908
+ 5:    0.9486419413834363
+ 6:    0.0063526642948086
+(30 best updates, 200020 function calls, time: 34.232 seconds)
+
+
+Minimum mean total squared error: 1.364555631  (hahn1.txt)
+Parameters:
+ 0:    1.0352733791699926
+ 1:   -0.4935010034909160
+ 2:    0.0023640306426399
+ 3:    0.1470928088704818
+ 4:    0.9733664898208461
+ 5:    0.8773347282124010
+ 6:    0.0060876201624633
+(32 best updates, 200020 function calls, time: 34.581 seconds)
+
+
+Minimum mean total squared error: 1.376395095  (hahn1.txt)
+Parameters:
+ 0:    0.4887596320200993
+ 1:   -0.0387100512010555
+ 2:    0.0035062645640532
+ 3:    0.1533843806829931
+ 4:    0.9265163496086444
+ 5:    0.9410340078103797
+ 6:    0.0062611252607658
+(29 best updates, 200020 function calls, time: 34.780 seconds)
+
+
+Minimum mean total squared error: 1.365541408  (hahn1.txt)
+Parameters:
+ 0:    0.9628464051960156
+ 1:   -0.5530491749210300
+ 2:    0.0076188288835702
+ 3:    0.1506948880660302
+ 4:    0.9735115042481550
+ 5:    0.9126313686074412
+ 6:    0.0061805240429831
+(31 best updates, 200020 function calls, time: 35.331 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608544343
+ 1:    3.0000001706399329
+ 2:   20.0001115682493271
+ 3:    7.9999997934691827
+ 4:    0.6000128598176667
+(1530 best updates, 200020 function calls, time: 21.413 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608964080
+ 1:    3.0000001706283084
+ 2:   20.0001115684395714
+ 3:    7.9999997934746911
+ 4:    0.6000128598023304
+(398 best updates, 200020 function calls, time: 21.528 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:   -1.9999892607390437
+ 1:   -3.0000001706446935
+ 2:   20.0001115679366990
+ 3:    7.9999997934718294
+ 4:    0.6000128598368107
+(1490 best updates, 200020 function calls, time: 21.632 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608430663
+ 1:    3.0000001706477915
+ 2:   20.0001115680913450
+ 3:    7.9999997934637133
+ 4:    0.6000128598270319
+(685 best updates, 200020 function calls, time: 22.314 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:   -1.9999892608580121
+ 1:   -3.0000001706434003
+ 2:   20.0001115681915351
+ 3:    7.9999997934653777
+ 4:    0.6000128598231775
+(598 best updates, 200020 function calls, time: 21.841 seconds)
+
+
+Minimum mean total squared error: 1433.587135844  (thurber.txt)
+Parameters:
+ 0: 1311.0232783582364391
+ 1:  862.0866677894773602
+ 2:  326.2112008599953015
+ 3:   57.5107491674998883
+ 4:    0.4166156812445500
+ 5:    0.3622517373083050
+ 6:    0.0001530249979980
+(226 best updates, 200020 function calls, time: 27.556 seconds)
+
+
+Minimum mean total squared error: 1270.537215259  (thurber.txt)
+Parameters:
+ 0: 1320.4860385396593756
+ 1:  928.3644811055931996
+ 2:  349.3521791114614530
+ 3:   57.5079172894754294
+ 4:    0.4721435568736939
+ 5:    0.3767053467286255
+ 6:    0.0002550244740062
+(35 best updates, 200020 function calls, time: 26.411 seconds)
+
+
+Minimum mean total squared error: 1196.358747594  (thurber.txt)
+Parameters:
+ 0: 1307.8920273647433987
+ 1:  867.9041649327612049
+ 2:  248.4364695927731930
+ 3:   30.5715486868674624
+ 4:    0.4074622412898685
+ 5:    0.2818521878163266
+ 6:    0.0006053599400482
+(19 best updates, 200020 function calls, time: 27.399 seconds)
+
+
+Minimum mean total squared error: 1387.056391412  (thurber.txt)
+Parameters:
+ 0: 1312.6373052050998922
+ 1:  877.8944038671846783
+ 2:  327.1380698069462483
+ 3:   55.6904744396505791
+ 4:    0.4264454032757207
+ 5:    0.3682004323273035
+ 6:    0.0004894278991143
+(44 best updates, 200020 function calls, time: 26.933 seconds)
+
+
+Minimum mean total squared error: 819.059997257  (thurber.txt)
+Parameters:
+ 0: 1308.7102547113945548
+ 1: 1030.5682993153347979
+ 2:  346.2181974904456752
+ 3:   44.8235915060494179
+ 4:    0.5679899907996147
+ 5:    0.3318716323034970
+ 6:    0.0033157290420465
+(80 best updates, 200020 function calls, time: 26.855 seconds)
+
+===============================================================================
+
+DE:
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781837639102
+ 1:    0.0061314004435700
+ 2:    0.0105309084100196
+(71 best updates, 200020 function calls, time: 22.267 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781851752203
+ 1:    0.0061314004836640
+ 2:    0.0105309083330610
+(77 best updates, 200020 function calls, time: 22.555 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781841561049
+ 1:    0.0061314004369088
+ 2:    0.0105309083972228
+(71 best updates, 200020 function calls, time: 22.760 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781818900222
+ 1:    0.0061314004106493
+ 2:    0.0105309084911556
+(82 best updates, 200020 function calls, time: 22.732 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781855385810
+ 1:    0.0061314004603426
+ 2:    0.0105309083596569
+(97 best updates, 200020 function calls, time: 22.689 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827173030740
+ 1:    4.0888321753801806
+ 2:  451.5412184369478723
+(77 best updates, 200020 function calls, time: 22.512 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827178502341
+ 1:    4.0888321727403527
+ 2:  451.5412184349842164
+(77 best updates, 200020 function calls, time: 22.697 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827179288912
+ 1:    4.0888321754873989
+ 2:  451.5412184373322475
+(64 best updates, 200020 function calls, time: 23.368 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827175187697
+ 1:    4.0888321727137162
+ 2:  451.5412184373715831
+(78 best updates, 200020 function calls, time: 22.641 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827181569603
+ 1:    4.0888321765161848
+ 2:  451.5412184338881048
+(65 best updates, 200020 function calls, time: 22.640 seconds)
+
+
+Minimum mean total squared error: 4.693689206  (ENSO.txt)
+Parameters:
+ 0:   10.5107491971172760
+ 1:    3.0762128151662842
+ 2:    0.5328013847000160
+ 3:   44.3110886487164422
+ 4:   -1.6231428567499062
+ 5:    0.5255448966980101
+ 6:   26.8876144267046975
+ 7:    0.2123228806238322
+ 8:    1.4966870530798533
+(142 best updates, 200020 function calls, time: 54.958 seconds)
+
+
+Minimum mean total squared error: 4.693689206  (ENSO.txt)
+Parameters:
+ 0:   10.5107491775142936
+ 1:    3.0762127941588657
+ 2:    0.5328013830974887
+ 3:   44.3110887674597436
+ 4:   -1.6231428504158307
+ 5:    0.5255449652605571
+ 6:   26.8876144465249425
+ 7:    0.2123228787771749
+ 8:    1.4966870306631941
+(167 best updates, 200020 function calls, time: 54.154 seconds)
+
+
+Minimum mean total squared error: 4.693689206  (ENSO.txt)
+Parameters:
+ 0:   10.5107491885678908
+ 1:    3.0762127967377522
+ 2:    0.5328013642307968
+ 3:   44.3110886907835493
+ 4:   -1.6231428697960215
+ 5:    0.5255449093815224
+ 6:   26.8876144398197177
+ 7:    0.2123228996484220
+ 8:    1.4966870460844210
+(148 best updates, 200020 function calls, time: 55.557 seconds)
+
+
+Minimum mean total squared error: 4.693689206  (ENSO.txt)
+Parameters:
+ 0:   10.5107491981502186
+ 1:    3.0762128018063373
+ 2:    0.5328013727386457
+ 3:   44.3110887138830591
+ 4:   -1.6231428561043040
+ 5:    0.5255449339703051
+ 6:   26.8876144114301638
+ 7:    0.2123228376114669
+ 8:    1.4966870296335097
+(159 best updates, 200020 function calls, time: 53.802 seconds)
+
+
+Minimum mean total squared error: 4.693689206  (ENSO.txt)
+Parameters:
+ 0:   10.5107491902585846
+ 1:    3.0762128080912796
+ 2:    0.5328013706811915
+ 3:   44.3110886808014897
+ 4:   -1.6231428647424768
+ 5:    0.5255449229716469
+ 6:   26.8876144468219742
+ 7:    0.2123229084025666
+ 8:    1.4966870422747525
+(149 best updates, 200020 function calls, time: 54.376 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108210597301
+ 1:    0.0104972765151596
+ 2:  100.4899063150529628
+ 3:   67.4811112680337288
+ 4:   23.1297733759335884
+ 5:   71.9945030256148755
+ 6:  178.9980502086166041
+ 7:   18.3893890199920698
+(152 best updates, 200020 function calls, time: 37.024 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108807748642
+ 1:    0.0104972765200822
+ 2:  100.4899062938889926
+ 3:   67.4811112752023803
+ 4:   23.1297733608789464
+ 5:   71.9945029527024047
+ 6:  178.9980502138147642
+ 7:   18.3893890419669610
+(154 best updates, 200020 function calls, time: 36.738 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108156002465
+ 1:    0.0104972765099770
+ 2:  100.4899062723900300
+ 3:   67.4811112728763902
+ 4:   23.1297733798940612
+ 5:   71.9945029846121827
+ 6:  178.9980501939155602
+ 7:   18.3893890364044026
+(161 best updates, 200020 function calls, time: 36.767 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108590785981
+ 1:    0.0104972765227436
+ 2:  100.4899063424823566
+ 3:   67.4811112814457061
+ 4:   23.1297733749412835
+ 5:   71.9945029650172899
+ 6:  178.9980502120926076
+ 7:   18.3893890360649443
+(147 best updates, 200020 function calls, time: 37.387 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782109319117865
+ 1:    0.0104972765320342
+ 2:  100.4899063384633990
+ 3:   67.4811112690063055
+ 4:   23.1297733585395058
+ 5:   71.9945029481600187
+ 6:  178.9980501998933278
+ 7:   18.3893890597825909
+(144 best updates, 200020 function calls, time: 36.119 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183285029808076
+ 1:    0.0109949454114746
+ 2:  101.8802253010479149
+ 3:  107.0309551789719933
+ 4:   23.5785840267477589
+ 5:   72.0455895076281223
+ 6:  153.2701019566509899
+ 7:   19.5259726509679012
+(175 best updates, 200020 function calls, time: 36.887 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284079839439
+ 1:    0.0109949454052573
+ 2:  101.8802253408919256
+ 3:  107.0309551967080637
+ 4:   23.5785840261934716
+ 5:   72.0455895451999027
+ 6:  153.2701019483222638
+ 7:   19.5259726251952834
+(156 best updates, 200020 function calls, time: 36.549 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284145985141
+ 1:    0.0109949453898274
+ 2:  101.8802252573067051
+ 3:  107.0309551977326521
+ 4:   23.5785840172775742
+ 5:   72.0455894616267898
+ 6:  153.2701019418068142
+ 7:   19.5259726241482774
+(167 best updates, 200020 function calls, time: 36.122 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183283890826971
+ 1:    0.0109949454028672
+ 2:  101.8802252517155722
+ 3:  107.0309551798963810
+ 4:   23.5785840274635952
+ 5:   72.0455894432286783
+ 6:  153.2701019447797250
+ 7:   19.5259726474392288
+(156 best updates, 200020 function calls, time: 36.914 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284468821370
+ 1:    0.0109949454169071
+ 2:  101.8802252407516420
+ 3:  107.0309551651045865
+ 4:   23.5785840320610767
+ 5:   72.0455894801797285
+ 6:  153.2701019205257467
+ 7:   19.5259726821644328
+(153 best updates, 200020 function calls, time: 35.870 seconds)
+
+
+Minimum mean total squared error: 0.006493510  (hahn1.txt)
+Parameters:
+ 0:    1.0683911358522775
+ 1:   -0.1220264856577924
+ 2:    0.0040743925855589
+ 3:   -0.0000014145649734
+ 4:   -0.0057568746419812
+ 5:    0.0002399580338475
+ 6:   -0.0000001225354319
+(152 best updates, 200020 function calls, time: 39.555 seconds)
+
+
+Minimum mean total squared error: 0.006493468  (hahn1.txt)
+Parameters:
+ 0:    1.0789260121960043
+ 1:   -0.1227915440886146
+ 2:    0.0040886850386533
+ 3:   -0.0000014274982014
+ 4:   -0.0057589051681750
+ 5:    0.0002406477992908
+ 6:   -0.0000001232161910
+(171 best updates, 200020 function calls, time: 38.589 seconds)
+
+
+Minimum mean total squared error: 0.006493398  (hahn1.txt)
+Parameters:
+ 0:    1.0776421314564166
+ 1:   -0.1226961189300868
+ 2:    0.0040861953494358
+ 3:   -0.0000014240422822
+ 4:   -0.0057636448456120
+ 5:    0.0002405526328525
+ 6:   -0.0000001230627930
+(170 best updates, 200020 function calls, time: 39.190 seconds)
+
+
+Minimum mean total squared error: 0.006493572  (hahn1.txt)
+Parameters:
+ 0:    1.0825433060373537
+ 1:   -0.1229365723235315
+ 2:    0.0040888741080780
+ 3:   -0.0000014268193089
+ 4:   -0.0057714912296560
+ 5:    0.0002406774138666
+ 6:   -0.0000001231905631
+(166 best updates, 200020 function calls, time: 39.052 seconds)
+
+
+Minimum mean total squared error: 0.006493680  (hahn1.txt)
+Parameters:
+ 0:    1.0859201816047459
+ 1:   -0.1234387813735747
+ 2:    0.0041016516150302
+ 3:   -0.0000014420030729
+ 4:   -0.0057592049711779
+ 5:    0.0002412673546601
+ 6:   -0.0000001239570342
+(144 best updates, 200020 function calls, time: 39.873 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:   -1.9999892608620080
+ 1:   -3.0000001706392081
+ 2:   20.0001115680283164
+ 3:    7.9999997934670635
+ 4:    0.6000128598278146
+(157 best updates, 200020 function calls, time: 27.083 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:   -1.9999892608136876
+ 1:   -3.0000001706422492
+ 2:   20.0001115681617314
+ 3:    7.9999997934636315
+ 4:    0.6000128598264377
+(134 best updates, 200020 function calls, time: 26.108 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608273422
+ 1:    3.0000001706429740
+ 2:   20.0001115681550701
+ 3:    7.9999997934641724
+ 4:    0.6000128598250849
+(145 best updates, 200020 function calls, time: 26.359 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892607722085
+ 1:    3.0000001706429456
+ 2:   20.0001115680299542
+ 3:    7.9999997934681986
+ 4:    0.6000128598278797
+(130 best updates, 200020 function calls, time: 26.368 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:   -1.9999892608389975
+ 1:   -3.0000001706408281
+ 2:   20.0001115681615325
+ 3:    7.9999997934621723
+ 4:    0.6000128598259143
+(146 best updates, 200020 function calls, time: 26.208 seconds)
+
+
+Minimum mean total squared error: 152.505628116  (thurber.txt)
+Parameters:
+ 0: 1288.1396369392039105
+ 1: 1491.0796951596778399
+ 2:  583.2386356810686721
+ 3:   75.4166819344536350
+ 4:    0.9662956172316348
+ 5:    0.3979729648533255
+ 6:    0.0497272765311304
+(114 best updates, 200020 function calls, time: 31.803 seconds)
+
+
+Minimum mean total squared error: 152.505628165  (thurber.txt)
+Parameters:
+ 0: 1288.1396190544783167
+ 1: 1491.0825639057370608
+ 2:  583.2408418307463762
+ 3:   75.4171168312643800
+ 4:    0.9662978197217783
+ 5:    0.3979742918008385
+ 6:    0.0497276482610136
+(107 best updates, 200020 function calls, time: 31.620 seconds)
+
+
+Minimum mean total squared error: 152.505628141  (thurber.txt)
+Parameters:
+ 0: 1288.1398880844917585
+ 1: 1491.0780671215109123
+ 2:  583.2372983311855705
+ 3:   75.4164272067313846
+ 4:    0.9662936792329568
+ 5:    0.3979722591630020
+ 6:    0.0497273197426110
+(98 best updates, 200020 function calls, time: 31.208 seconds)
+
+
+Minimum mean total squared error: 152.505628210  (thurber.txt)
+Parameters:
+ 0: 1288.1395157017566362
+ 1: 1491.0756386409177594
+ 2:  583.2356479904517528
+ 3:   75.4161128331626287
+ 4:    0.9662921671120899
+ 5:    0.3979714252422226
+ 6:    0.0497269593536306
+(97 best updates, 200020 function calls, time: 31.718 seconds)
+
+
+Minimum mean total squared error: 152.505628101  (thurber.txt)
+Parameters:
+ 0: 1288.1396184999064189
+ 1: 1491.0791557302968613
+ 2:  583.2382944798000608
+ 3:   75.4166272902719186
+ 4:    0.9662950292545799
+ 5:    0.3979727993739063
+ 6:    0.0497272768382014
+(110 best updates, 200020 function calls, time: 31.490 seconds)
+
+===============================================================================
+
+GWO:
+
+Minimum mean total squared error: 17.272774981  (chwirut1.txt)
+Parameters:
+ 0:    0.0000066987636866
+ 1:    0.0028135346506612
+ 2:    0.0187201676934994
+(54 best updates, 200020 function calls, time: 25.574 seconds)
+
+
+Minimum mean total squared error: 11.142416624  (chwirut1.txt)
+Parameters:
+ 0:    0.1903056618887569
+ 1:    0.0061317152132812
+ 2:    0.0105300000811515
+(43 best updates, 200020 function calls, time: 25.186 seconds)
+
+
+Minimum mean total squared error: 11.142416563  (chwirut1.txt)
+Parameters:
+ 0:    0.1902791396691460
+ 1:    0.0061313424557654
+ 2:    0.0105310196759601
+(56 best updates, 200020 function calls, time: 25.614 seconds)
+
+
+Minimum mean total squared error: 11.142416558  (chwirut1.txt)
+Parameters:
+ 0:    0.1902859783463621
+ 1:    0.0061314124286024
+ 2:    0.0105307385885523
+(60 best updates, 200020 function calls, time: 25.349 seconds)
+
+
+Minimum mean total squared error: 11.142416563  (chwirut1.txt)
+Parameters:
+ 0:    0.1902701940442353
+ 1:    0.0061312610957481
+ 2:    0.0105311643229582
+(77 best updates, 200020 function calls, time: 25.594 seconds)
+
+
+Minimum mean total squared error: 0.000041821  (eckerle4.txt)
+Parameters:
+ 0:    1.5545401866905235
+ 1:    4.0903289585517504
+ 2:  451.5432525175298792
+(14 best updates, 200020 function calls, time: 25.647 seconds)
+
+
+Minimum mean total squared error: 0.000041819  (eckerle4.txt)
+Parameters:
+ 0:    1.5549622458158991
+ 1:    4.0904939132112901
+ 2:  451.5403126869578045
+(16 best updates, 200020 function calls, time: 25.812 seconds)
+
+
+Minimum mean total squared error: 0.000041818  (eckerle4.txt)
+Parameters:
+ 0:    1.5541205190501886
+ 1:    4.0890382002888321
+ 2:  451.5419953222745448
+(29 best updates, 200020 function calls, time: 25.474 seconds)
+
+
+Minimum mean total squared error: 0.000041818  (eckerle4.txt)
+Parameters:
+ 0:    1.5545949411437912
+ 1:    4.0894848557416568
+ 2:  451.5403364489907858
+(26 best updates, 200020 function calls, time: 25.020 seconds)
+
+
+Minimum mean total squared error: 0.000041836  (eckerle4.txt)
+Parameters:
+ 0:    1.5559342333831729
+ 1:    4.0942770092146841
+ 2:  451.5410409833831977
+(30 best updates, 200020 function calls, time: 25.409 seconds)
+
+
+Minimum mean total squared error: 5.074879211  (ENSO.txt)
+Parameters:
+ 0:   10.6401696443647680
+ 1:    3.0634357544995070
+ 2:    0.4843146338284217
+ 3:   39.9620570131818127
+ 4:   -0.1386472806062038
+ 5:   -1.4056490836970672
+ 6:   26.5314547931955396
+ 7:   -0.2412099233286140
+ 8:    1.3290320951049031
+(72 best updates, 200020 function calls, time: 56.146 seconds)
+
+
+Minimum mean total squared error: 5.342874917  (ENSO.txt)
+Parameters:
+ 0:   10.5832478200481130
+ 1:    3.0549987024003094
+ 2:    0.5460376271997632
+ 3:   43.0970936381921419
+ 4:   -1.5243310307272033
+ 5:   -0.1882494837646727
+ 6:   25.5056045402513547
+ 7:   -0.9583343426829130
+ 8:    0.0699677266722179
+(79 best updates, 200020 function calls, time: 55.831 seconds)
+
+
+Minimum mean total squared error: 5.326458835  (ENSO.txt)
+Parameters:
+ 0:   10.5864851859705595
+ 1:    3.0747484789586976
+ 2:    0.4327584112854638
+ 3:   43.3350491446690214
+ 4:   -1.4234706637480095
+ 5:   -0.0550297124800238
+ 6:    0.9632658917995910
+ 7:   -0.2570242632804341
+ 8:    0.3772585118921422
+(49 best updates, 200020 function calls, time: 55.794 seconds)
+
+
+Minimum mean total squared error: 5.819448228  (ENSO.txt)
+Parameters:
+ 0:   10.5551832346359795
+ 1:    3.0622358139755232
+ 2:    0.4999394708129065
+ 3:   44.7154967815602049
+ 4:   -1.3436376956868139
+ 5:    0.6835334016820713
+ 6:    5.1943012180695520
+ 7:    0.0009292105838084
+ 8:   -0.0078022575129486
+(62 best updates, 200020 function calls, time: 56.921 seconds)
+
+
+Minimum mean total squared error: 5.133801641  (ENSO.txt)
+Parameters:
+ 0:   10.6456287261385523
+ 1:    3.0644465679914767
+ 2:    0.3531821067189999
+ 3:   39.6309323450481656
+ 4:    0.0799839298519424
+ 5:   -1.4149927015101473
+ 6:   26.6427811287156366
+ 7:   -0.0561927632876730
+ 8:    1.3190211650109640
+(93 best updates, 200020 function calls, time: 56.143 seconds)
+
+
+Minimum mean total squared error: 5.264696042  (gauss1.txt)
+Parameters:
+ 0:   98.8160111238619692
+ 1:    0.0105164284178177
+ 2:  100.4987909045097894
+ 3:   67.4837921587295710
+ 4:   23.1532673258763388
+ 5:   71.9608026516333439
+ 6:  178.9976984179048998
+ 7:   18.4349984413371288
+(82 best updates, 200020 function calls, time: 38.736 seconds)
+
+
+Minimum mean total squared error: 5.263687482  (gauss1.txt)
+Parameters:
+ 0:   98.7862675590198336
+ 1:    0.0105025073836702
+ 2:  100.4752927764518518
+ 3:   67.4837437523250259
+ 4:   23.1410568759020627
+ 5:   71.9480357461960267
+ 6:  178.9982037451651706
+ 7:   18.4121133070553071
+(78 best updates, 200020 function calls, time: 38.516 seconds)
+
+
+Minimum mean total squared error: 5.263894883  (gauss1.txt)
+Parameters:
+ 0:   98.7783085334839797
+ 1:    0.0104858662903215
+ 2:  100.4919586322079823
+ 3:   67.4826280224308590
+ 4:   23.1031291741088403
+ 5:   71.9696093617252899
+ 6:  178.9989757117569695
+ 7:   18.3811284679515872
+(58 best updates, 200020 function calls, time: 38.054 seconds)
+
+
+Minimum mean total squared error: 5.264348382  (gauss1.txt)
+Parameters:
+ 0:   98.7488733887234531
+ 1:    0.0104947918404523
+ 2:  100.4641306401732805
+ 3:   67.4775316895427153
+ 4:   23.1482824079409220
+ 5:   72.0905763830718911
+ 6:  179.0016531719855948
+ 7:   18.3618530782017082
+(70 best updates, 200020 function calls, time: 39.195 seconds)
+
+
+Minimum mean total squared error: 5.263482543  (gauss1.txt)
+Parameters:
+ 0:   98.7758425333497740
+ 1:    0.0104984425637478
+ 2:  100.4973729435783270
+ 3:   67.4787780588469985
+ 4:   23.1267137023544471
+ 5:   72.0424254659241683
+ 6:  178.9954341330389980
+ 7:   18.3792463278622442
+(61 best updates, 200020 function calls, time: 39.174 seconds)
+
+
+Minimum mean total squared error: 4.990526025  (gauss2.txt)
+Parameters:
+ 0:   99.0331276022930780
+ 1:    0.0110015128775708
+ 2:  101.8904230916391356
+ 3:  107.0394200837222769
+ 4:   23.5947650614559556
+ 5:   72.1006067120539456
+ 6:  153.2843826737006623
+ 7:   19.4972193606037685
+(66 best updates, 200020 function calls, time: 39.141 seconds)
+
+
+Minimum mean total squared error: 4.991458217  (gauss2.txt)
+Parameters:
+ 0:   99.1043295712283765
+ 1:    0.0110229506588322
+ 2:  101.9140202167405391
+ 3:  107.0292535729160477
+ 4:   23.6049766203083671
+ 5:   72.0242609994049161
+ 6:  153.2769054591836664
+ 7:   19.5478496070185201
+(67 best updates, 200020 function calls, time: 39.699 seconds)
+
+
+Minimum mean total squared error: 4.995232954  (gauss2.txt)
+Parameters:
+ 0:   98.8569138293282066
+ 1:    0.0109382035243824
+ 2:  101.7190705250458649
+ 3:  107.0699594223305127
+ 4:   23.6022061817312441
+ 5:   71.9544743285442649
+ 6:  153.2909978545361867
+ 7:   19.4467438251596043
+(73 best updates, 200020 function calls, time: 39.177 seconds)
+
+
+Minimum mean total squared error: 4.990316423  (gauss2.txt)
+Parameters:
+ 0:   99.0168863869280784
+ 1:    0.0109934245523762
+ 2:  101.8683416822885448
+ 3:  107.0225588344169836
+ 4:   23.5652377184839246
+ 5:   72.0171760577744493
+ 6:  153.2571067752919305
+ 7:   19.5484253707288396
+(60 best updates, 200020 function calls, time: 39.515 seconds)
+
+
+Minimum mean total squared error: 4.993147311  (gauss2.txt)
+Parameters:
+ 0:   99.0691193443737319
+ 1:    0.0110175227407537
+ 2:  101.9320422315890227
+ 3:  107.0570006590327949
+ 4:   23.6366794100917836
+ 5:   72.1792355086776212
+ 6:  153.3173625845790013
+ 7:   19.4548823164676854
+(69 best updates, 200020 function calls, time: 39.147 seconds)
+
+
+Minimum mean total squared error: 0.301906775  (hahn1.txt)
+Parameters:
+ 0:    0.4150019548854701
+ 1:    0.0291717082887361
+ 2:    0.0009720650216230
+ 3:    0.0027613035523412
+ 4:    0.9860412550505130
+ 5:    0.0047464171008207
+ 6:    0.0001353018560024
+(206 best updates, 200020 function calls, time: 40.844 seconds)
+
+
+Minimum mean total squared error: 1.373735273  (hahn1.txt)
+Parameters:
+ 0:    1.0261454044015696
+ 1:   -0.9999784791028031
+ 2:    0.0012534981410639
+ 3:    0.0457638269132245
+ 4:   -0.0283708133926186
+ 5:    0.2818117357574360
+ 6:    0.0018743218061575
+(147 best updates, 200020 function calls, time: 41.675 seconds)
+
+
+Minimum mean total squared error: 0.187660848  (hahn1.txt)
+Parameters:
+ 0:    0.6799840231739408
+ 1:   -0.9455647764429309
+ 2:    0.0031786116741598
+ 3:    0.0016009194809495
+ 4:    0.3150437809942415
+ 5:    0.0044076987667375
+ 6:    0.0000762277388277
+(135 best updates, 200020 function calls, time: 41.066 seconds)
+
+
+Minimum mean total squared error: 0.302098198  (hahn1.txt)
+Parameters:
+ 0:    0.0905171365607188
+ 1:   -0.0023348728099213
+ 2:    0.0594746288814233
+ 3:   -0.0027608064622166
+ 4:   -0.7444031518374331
+ 5:    0.0000536408937680
+ 6:   -0.0001407088234232
+(103 best updates, 200020 function calls, time: 41.900 seconds)
+
+
+Minimum mean total squared error: 0.886330058  (hahn1.txt)
+Parameters:
+ 0:    0.4046625637839718
+ 1:   -0.9999970179734369
+ 2:    0.0025264875863764
+ 3:    0.0040332235413272
+ 4:   -0.0268259629374216
+ 5:    0.0232054074430983
+ 6:    0.0001690628942030
+(347 best updates, 200020 function calls, time: 41.798 seconds)
+
+
+Minimum mean total squared error: 0.000040322  (sinexp.txt)
+Parameters:
+ 0:   -2.0096366039558622
+ 1:   -2.9998346814838865
+ 2:   20.0097864359119697
+ 3:    8.0000307555448149
+ 4:    0.5991220569734642
+(49 best updates, 200020 function calls, time: 28.579 seconds)
+
+
+Minimum mean total squared error: 1.726126445  (sinexp.txt)
+Parameters:
+ 0:   -0.1181456350067780
+ 1:    1.3473202437442275
+ 2:   18.9519096208540319
+ 3:    8.0036426100111626
+ 4:    0.6985759255393299
+(5 best updates, 200020 function calls, time: 28.309 seconds)
+
+
+Minimum mean total squared error: 0.000010388  (sinexp.txt)
+Parameters:
+ 0:   -2.0042605977901586
+ 1:   -2.9998778567232733
+ 2:   20.0063320170980781
+ 3:    7.9999407579914648
+ 4:    0.5993312522809049
+(44 best updates, 200020 function calls, time: 28.818 seconds)
+
+
+Minimum mean total squared error: 0.000005810  (sinexp.txt)
+Parameters:
+ 0:    1.9992304454321477
+ 1:    3.0000718362618897
+ 2:   19.9929979509525744
+ 3:    7.9999761485227161
+ 4:    0.6006020009087821
+(34 best updates, 200020 function calls, time: 28.520 seconds)
+
+
+Minimum mean total squared error: 1.659486624  (sinexp.txt)
+Parameters:
+ 0:    4.9239621079649103
+ 1:   -0.0208567454430016
+ 2:   19.8398455591659051
+ 3:    8.0230998479963080
+ 4:    0.7663186050350901
+(35 best updates, 200020 function calls, time: 28.608 seconds)
+
+
+Minimum mean total squared error: 358.315390020  (thurber.txt)
+Parameters:
+ 0: 1285.7724691561554664
+ 1: 1373.8652340530886704
+ 2:  516.8619195567390534
+ 3:   63.3285626931257539
+ 4:    0.9100125047438777
+ 5:    0.3819843078207776
+ 6:    0.0132956499411378
+(79 best updates, 200020 function calls, time: 33.890 seconds)
+
+
+Minimum mean total squared error: 307.467656736  (thurber.txt)
+Parameters:
+ 0: 1287.4948661562314101
+ 1: 1348.8166268543084243
+ 2:  493.8205040367431025
+ 3:   58.5520846357586251
+ 4:    0.8837974425506564
+ 5:    0.3672305687366226
+ 6:    0.0134568661014519
+(74 best updates, 200020 function calls, time: 33.552 seconds)
+
+
+Minimum mean total squared error: 223.354381644  (thurber.txt)
+Parameters:
+ 0: 1292.9610774051695898
+ 1: 1194.4123701470718970
+ 2:  359.6861458495874899
+ 3:   31.4515979060326494
+ 4:    0.7292383305061350
+ 5:    0.2809060765617760
+ 6:    0.0115694863217480
+(46 best updates, 200020 function calls, time: 33.478 seconds)
+
+
+Minimum mean total squared error: 286.806463231  (thurber.txt)
+Parameters:
+ 0: 1290.3163137263993576
+ 1: 1234.7313227458091660
+ 2:  402.8915481952613504
+ 3:   40.2483764982502734
+ 4:    0.7877884692782940
+ 5:    0.3168442807098502
+ 6:    0.0014470988696495
+(61 best updates, 200020 function calls, time: 33.668 seconds)
+
+
+Minimum mean total squared error: 243.065607992  (thurber.txt)
+Parameters:
+ 0: 1289.7287373648798621
+ 1: 1281.0839340489972074
+ 2:  434.4980746995195204
+ 3:   46.3373810863242284
+ 4:    0.8190776855660284
+ 5:    0.3297657998229004
+ 6:    0.0108329900885991
+(42 best updates, 200020 function calls, time: 33.784 seconds)
+
+===============================================================================
+
+Jaya:
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781831873754
+ 1:    0.0061314004454019
+ 2:    0.0105309084165429
+(72 best updates, 200020 function calls, time: 17.186 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781837988086
+ 1:    0.0061314004563635
+ 2:    0.0105309083967234
+(67 best updates, 200020 function calls, time: 17.036 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781843168270
+ 1:    0.0061314004593502
+ 2:    0.0105309083740283
+(73 best updates, 200020 function calls, time: 17.214 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781831078505
+ 1:    0.0061314004458484
+ 2:    0.0105309084036788
+(72 best updates, 200020 function calls, time: 17.115 seconds)
+
+
+Minimum mean total squared error: 11.142416539  (chwirut1.txt)
+Parameters:
+ 0:    0.1902781821596646
+ 1:    0.0061314004242502
+ 2:    0.0105309084631951
+(72 best updates, 200020 function calls, time: 16.763 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827169123006
+ 1:    4.0888321745946064
+ 2:  451.5412184353108955
+(77 best updates, 200020 function calls, time: 17.060 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827171608589
+ 1:    4.0888321741390499
+ 2:  451.5412184356605394
+(77 best updates, 200020 function calls, time: 17.303 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827176650342
+ 1:    4.0888321771702465
+ 2:  451.5412184367856980
+(66 best updates, 200020 function calls, time: 16.981 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827177395253
+ 1:    4.0888321725526584
+ 2:  451.5412184349939935
+(65 best updates, 200020 function calls, time: 17.129 seconds)
+
+
+Minimum mean total squared error: 0.000041817  (eckerle4.txt)
+Parameters:
+ 0:    1.5543827181184056
+ 1:    4.0888321757894017
+ 2:  451.5412184358891068
+(55 best updates, 200020 function calls, time: 16.880 seconds)
+
+
+Minimum mean total squared error: 4.693692215  (ENSO.txt)
+Parameters:
+ 0:   10.5106514653639120
+ 1:    3.0768666808632967
+ 2:    0.5327634553136347
+ 3:   44.3139917896354589
+ 4:   -1.6219803668231574
+ 5:    0.5277405699369543
+ 6:   26.8897124824475995
+ 7:    0.2135189900902577
+ 8:    1.4967336341953565
+(53 best updates, 200020 function calls, time: 47.629 seconds)
+
+
+Minimum mean total squared error: 4.693695707  (ENSO.txt)
+Parameters:
+ 0:   10.5120099846472410
+ 1:    3.0753709072155608
+ 2:    0.5328634546479502
+ 3:   44.3161461548634321
+ 4:   -1.6214465091859831
+ 5:    0.5281169686167828
+ 6:   26.8855038534916204
+ 7:    0.2086129243651633
+ 8:    1.4959220931843276
+(63 best updates, 200020 function calls, time: 48.588 seconds)
+
+
+Minimum mean total squared error: 4.693695973  (ENSO.txt)
+Parameters:
+ 0:   10.5113078519703169
+ 1:    3.0741305734245894
+ 2:    0.5341506725254678
+ 3:   44.3070409280677708
+ 4:   -1.6241369347265673
+ 5:    0.5231797239779199
+ 6:   26.8848219305380773
+ 7:    0.2104415248293466
+ 8:    1.4975592489094403
+(80 best updates, 200020 function calls, time: 48.430 seconds)
+
+
+Minimum mean total squared error: 4.693694484  (ENSO.txt)
+Parameters:
+ 0:   10.5092967328592604
+ 1:    3.0755702725979397
+ 2:    0.5336491644650038
+ 3:   44.3113444245915105
+ 4:   -1.6238690916468821
+ 5:    0.5261929629915513
+ 6:   26.8854661635159822
+ 7:    0.2087651394159361
+ 8:    1.4984969235580479
+(65 best updates, 200020 function calls, time: 48.779 seconds)
+
+
+Minimum mean total squared error: 4.693693708  (ENSO.txt)
+Parameters:
+ 0:   10.5110606596891607
+ 1:    3.0770130086474179
+ 2:    0.5345972913621334
+ 3:   44.3088169636810889
+ 4:   -1.6221601697494292
+ 5:    0.5246786280815721
+ 6:   26.8894765958193283
+ 7:    0.2149198380382804
+ 8:    1.4963835680592725
+(71 best updates, 200020 function calls, time: 47.622 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108057501347
+ 1:    0.0104972765180375
+ 2:  100.4899063260693310
+ 3:   67.4811112640732063
+ 4:   23.1297733696538579
+ 5:   71.9945029925338815
+ 6:  178.9980502040721717
+ 7:   18.3893890331923373
+(174 best updates, 200020 function calls, time: 29.443 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108314372636
+ 1:    0.0104972765034656
+ 2:  100.4899063550141989
+ 3:   67.4811112696788769
+ 4:   23.1297733532426797
+ 5:   71.9945030700397410
+ 6:  178.9980502132238485
+ 7:   18.3893889852124381
+(209 best updates, 200020 function calls, time: 29.262 seconds)
+
+
+Minimum mean total squared error: 322.381364994  (gauss1.txt)
+Parameters:
+ 0:   91.3451984618720019
+ 1:    0.0058328579994060
+ 2:   75.6552113205886201
+ 3:   62.0533429869077935
+ 4:   17.6124204224473395
+ 5:   35.3388778703803581
+ 6:   78.1957030192056521
+ 7:   12.7091905315775264
+(181 best updates, 200020 function calls, time: 30.019 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108938878878
+ 1:    0.0104972765047822
+ 2:  100.4899063074473986
+ 3:   67.4811112742250572
+ 4:   23.1297733395715142
+ 5:   71.9945029764487714
+ 6:  178.9980502064882160
+ 7:   18.3893890138593150
+(168 best updates, 200020 function calls, time: 30.291 seconds)
+
+
+Minimum mean total squared error: 5.263288973  (gauss1.txt)
+Parameters:
+ 0:   98.7782108760436302
+ 1:    0.0104972765077164
+ 2:  100.4899062885154706
+ 3:   67.4811112677551392
+ 4:   23.1297733447962983
+ 5:   71.9945029659785689
+ 6:  178.9980502036773373
+ 7:   18.3893890213520983
+(156 best updates, 200020 function calls, time: 29.775 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183283954068969
+ 1:    0.0109949453970283
+ 2:  101.8802252920231268
+ 3:  107.0309551984740182
+ 4:   23.5785840470274906
+ 5:   72.0455894194917903
+ 6:  153.2701019579237141
+ 7:   19.5259726436535033
+(163 best updates, 200020 function calls, time: 29.574 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284167752618
+ 1:    0.0109949454056392
+ 2:  101.8802253300320473
+ 3:  107.0309551869183622
+ 4:   23.5785840352859033
+ 5:   72.0455894139060575
+ 6:  153.2701019433771989
+ 7:   19.5259726411608305
+(173 best updates, 200020 function calls, time: 29.520 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284392538496
+ 1:    0.0109949454058611
+ 2:  101.8802252525354390
+ 3:  107.0309551760657456
+ 4:   23.5785840246759015
+ 5:   72.0455894594569770
+ 6:  153.2701019374163423
+ 7:   19.5259726814175423
+(156 best updates, 200020 function calls, time: 30.461 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284208699206
+ 1:    0.0109949453961664
+ 2:  101.8802252681229419
+ 3:  107.0309551889351383
+ 4:   23.5785840435989584
+ 5:   72.0455894110510826
+ 6:  153.2701019471188886
+ 7:   19.5259726204554021
+(168 best updates, 200020 function calls, time: 30.022 seconds)
+
+
+Minimum mean total squared error: 4.990112837  (gauss2.txt)
+Parameters:
+ 0:   99.0183284037887148
+ 1:    0.0109949454170255
+ 2:  101.8802253398847881
+ 3:  107.0309551875491820
+ 4:   23.5785840510924842
+ 5:   72.0455894850992280
+ 6:  153.2701019474077100
+ 7:   19.5259726329809453
+(194 best updates, 200020 function calls, time: 29.622 seconds)
+
+
+Minimum mean total squared error: 0.182102378  (hahn1.txt)
+Parameters:
+ 0:    1.0008347887092128
+ 1:   -0.6126417670659439
+ 2:    0.0008884771563650
+ 3:    0.0010025825673245
+ 4:    0.1728990591514677
+ 5:    0.0028812768693444
+ 6:    0.0000475444766403
+(52 best updates, 200020 function calls, time: 32.665 seconds)
+
+
+Minimum mean total squared error: 0.187136913  (hahn1.txt)
+Parameters:
+ 0:    1.0616635660070584
+ 1:   -0.9714778962444990
+ 2:    0.0017941012682042
+ 3:    0.0016650617510674
+ 4:    0.3027250321338851
+ 5:    0.0047016230849663
+ 6:    0.0000790759297033
+(74 best updates, 200020 function calls, time: 33.077 seconds)
+
+
+Minimum mean total squared error: 0.202452394  (hahn1.txt)
+Parameters:
+ 0:    1.2215059199802036
+ 1:   -0.9929042338763909
+ 2:    0.0001510120086859
+ 3:    0.0019535938305877
+ 4:    0.4462753027539760
+ 5:    0.0049520030538265
+ 6:    0.0000935599258641
+(65 best updates, 200020 function calls, time: 33.298 seconds)
+
+
+Minimum mean total squared error: 0.213223822  (hahn1.txt)
+Parameters:
+ 0:    0.1919786214532427
+ 1:   -0.8789159082071152
+ 2:    0.0028589353966363
+ 3:    0.0022822852989549
+ 4:    0.6327922220429630
+ 5:    0.0049897430683692
+ 6:    0.0001107643526251
+(58 best updates, 200020 function calls, time: 32.924 seconds)
+
+
+Minimum mean total squared error: 0.191983445  (hahn1.txt)
+Parameters:
+ 0:    0.3986233446635636
+ 1:   -0.8271982941292049
+ 2:    0.0049718985688831
+ 3:    0.0014327720782327
+ 4:    0.3201745077414782
+ 5:    0.0038772052866613
+ 6:    0.0000682501143304
+(65 best updates, 200020 function calls, time: 33.910 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608447081
+ 1:    3.0000001706429456
+ 2:   20.0001115680782497
+ 3:    7.9999997934708214
+ 4:    0.6000128598244916
+(123 best updates, 200020 function calls, time: 20.322 seconds)
+
+
+Minimum mean total squared error: 0.004770282  (sinexp.txt)
+Parameters:
+ 0:   -2.0856125076804930
+ 1:   -3.0041947296265104
+ 2:   20.0422113417012042
+ 3:    7.9992869529723833
+ 4:    0.5965733380737273
+(29 best updates, 200020 function calls, time: 20.542 seconds)
+
+
+Minimum mean total squared error: 0.004889080  (sinexp.txt)
+Parameters:
+ 0:   -1.9538830510492398
+ 1:   -3.0054798855711224
+ 2:   19.9457405916587796
+ 3:    8.0002952401416341
+ 4:    0.5960894324617511
+(26 best updates, 200020 function calls, time: 20.151 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608286307
+ 1:    3.0000001706324153
+ 2:   20.0001115681792214
+ 3:    7.9999997934668805
+ 4:    0.6000128598225017
+(128 best updates, 200020 function calls, time: 20.411 seconds)
+
+
+Minimum mean total squared error: 0.000000015  (sinexp.txt)
+Parameters:
+ 0:    1.9999892608313261
+ 1:    3.0000001706417518
+ 2:   20.0001115680202339
+ 3:    7.9999997934655944
+ 4:    0.6000128598266227
+(131 best updates, 200020 function calls, time: 20.119 seconds)
+
+
+Minimum mean total squared error: 152.718848518  (thurber.txt)
+Parameters:
+ 0: 1288.0330103724279525
+ 1: 1485.5706972472676171
+ 2:  579.0776026623967709
+ 3:   74.5740598586436931
+ 4:    0.9622702527743879
+ 5:    0.3958265610664176
+ 6:    0.0488380435015055
+(55 best updates, 200020 function calls, time: 24.730 seconds)
+
+
+Minimum mean total squared error: 211.656384667  (thurber.txt)
+Parameters:
+ 0: 1287.2820252896492548
+ 1: 1299.3507622617435118
+ 2:  440.8508437748720326
+ 3:   47.4242960973640066
+ 4:    0.8243428371813966
+ 5:    0.3218042630927631
+ 6:    0.0212318293478070
+(51 best updates, 200020 function calls, time: 24.879 seconds)
+
+
+Minimum mean total squared error: 153.085245646  (thurber.txt)
+Parameters:
+ 0: 1289.2947583475649935
+ 1: 1492.7388423993984361
+ 2:  583.7751855957151292
+ 3:   75.5128111728010936
+ 4:    0.9657344013409074
+ 5:    0.3983640275512015
+ 6:    0.0505732086825769
+(67 best updates, 200020 function calls, time: 24.783 seconds)
+
+
+Minimum mean total squared error: 164.892565851  (thurber.txt)
+Parameters:
+ 0: 1286.6851432640823987
+ 1: 1438.0526556999395780
+ 2:  544.0177698973052429
+ 3:   67.6409200350774427
+ 4:    0.9247420578980328
+ 5:    0.3755731118378260
+ 6:    0.0418472212919163
+(74 best updates, 200020 function calls, time: 24.481 seconds)
+
+
+Minimum mean total squared error: 183.645680959  (thurber.txt)
+Parameters:
+ 0: 1290.0823738090352890
+ 1: 1439.0036089308343890
+ 2:  549.0624837872759372
+ 3:   69.4230536703080219
+ 4:    0.9252964507113041
+ 5:    0.3806874516934588
+ 6:    0.0424851258446749
+(73 best updates, 200020 function calls, time: 24.580 seconds)
+
+===============================================================================
+
+GA:
+
+Minimum mean total squared error: 706.628789606  (chwirut1.txt)
+Parameters:
+ 0:   -0.7341440540005526
+ 1:   -0.3597070823162400
+ 2:    0.7559122864289605
+(15 best updates, 200020 function calls, time: 16.841 seconds)
+
+
+Minimum mean total squared error: 328.976141685  (chwirut1.txt)
+Parameters:
+ 0:   -0.4756025259109182
+ 1:   -0.0593052797633473
+ 2:    0.1475292950494829
+(20 best updates, 200020 function calls, time: 16.265 seconds)
+
+
+Minimum mean total squared error: 677.747043772  (chwirut1.txt)
+Parameters:
+ 0:   -0.7101402896831717
+ 1:   -0.3023629723043477
+ 2:    0.6401962814433273
+(22 best updates, 200020 function calls, time: 16.388 seconds)
+
+
+Minimum mean total squared error: 625.108393472  (chwirut1.txt)
+Parameters:
+ 0:   -0.6694348825872254
+ 1:   -0.2268717712796418
+ 2:    0.4878351380208914
+(19 best updates, 200020 function calls, time: 16.409 seconds)
+
+
+Minimum mean total squared error: 704.630488961  (chwirut1.txt)
+Parameters:
+ 0:   -0.7304315715576974
+ 1:   -0.3555041177474030
+ 2:    0.7470793731269139
+(15 best updates, 200020 function calls, time: 16.623 seconds)
+
+
+Minimum mean total squared error: 0.000041863  (eckerle4.txt)
+Parameters:
+ 0:    1.5518899736387941
+ 1:    4.0806567331192589
+ 2:  451.5415881319888172
+(56 best updates, 200020 function calls, time: 16.547 seconds)
+
+
+Minimum mean total squared error: 0.000044046  (eckerle4.txt)
+Parameters:
+ 0:    1.5507922422149867
+ 1:    4.0829891985321005
+ 2:  451.6016109657581410
+(32 best updates, 200020 function calls, time: 16.720 seconds)
+
+
+Minimum mean total squared error: 0.000048877  (eckerle4.txt)
+Parameters:
+ 0:    1.5533729180776423
+ 1:    4.0921384422027227
+ 2:  451.4323867393045475
+(39 best updates, 200020 function calls, time: 16.451 seconds)
+
+
+Minimum mean total squared error: 0.000050478  (eckerle4.txt)
+Parameters:
+ 0:    1.5526324800725315
+ 1:    4.0836928757249202
+ 2:  451.6617169119197115
+(36 best updates, 200020 function calls, time: 16.290 seconds)
+
+
+Minimum mean total squared error: 0.000081425  (eckerle4.txt)
+Parameters:
+ 0:    1.5469430970155285
+ 1:    4.0699378079557675
+ 2:  451.7982571141997141
+(52 best updates, 200020 function calls, time: 16.547 seconds)
+
+
+Minimum mean total squared error: 4.773260818  (ENSO.txt)
+Parameters:
+ 0:   10.5593202218058675
+ 1:    3.0666037476366048
+ 2:    0.5282105536339334
+ 3:   42.5293313490076486
+ 4:   -1.5686135324773662
+ 5:   -0.4765694550800683
+ 6:   26.7437162025342552
+ 7:    0.0241072255116004
+ 8:    1.4975835362294823
+(100 best updates, 200020 function calls, time: 47.259 seconds)
+
+
+Minimum mean total squared error: 4.763517338  (ENSO.txt)
+Parameters:
+ 0:   10.5089155702646799
+ 1:    3.0688429110448547
+ 2:    0.5120983028666557
+ 3:   45.1012511832018674
+ 4:   -1.4146097164814027
+ 5:    0.8970721086213782
+ 6:   -0.9648238031804972
+ 7:    0.8006828629199108
+ 8:   -1.2267845749805506
+(85 best updates, 200020 function calls, time: 47.442 seconds)
+
+
+Minimum mean total squared error: 4.740860341  (ENSO.txt)
+Parameters:
+ 0:   10.5811294885148808
+ 1:    3.0701020618497008
+ 2:    0.5323976039736724
+ 3:   43.0845496829293708
+ 4:   -1.6339112329158798
+ 5:   -0.2000382783895347
+ 6:   26.6287393007238720
+ 7:   -0.1153420695088450
+ 8:    1.4834323457904945
+(117 best updates, 200020 function calls, time: 46.132 seconds)
+
+
+Minimum mean total squared error: 5.650103035  (ENSO.txt)
+Parameters:
+ 0:   10.5326898026518663
+ 1:    3.0662555785773602
+ 2:    0.5003813272581068
+ 3:   45.1280841115914342
+ 4:   -1.2333399917233701
+ 5:    0.8595911465476944
+ 6:    9.8661487216294077
+ 7:   -0.2795807749179766
+ 8:   -0.5166485686072380
+(78 best updates, 200020 function calls, time: 47.327 seconds)
+
+
+Minimum mean total squared error: 4.695251574  (ENSO.txt)
+Parameters:
+ 0:   10.4975031659569353
+ 1:    3.0755321058934388
+ 2:    0.5390341857851815
+ 3:   44.4809452098542906
+ 4:   -1.5885016430748458
+ 5:    0.6423319724921215
+ 6:   26.8772576215764047
+ 7:    0.1981514895654888
+ 8:    1.5044356832162049
+(112 best updates, 200020 function calls, time: 47.286 seconds)
+
+
+Minimum mean total squared error: 6.119449233  (gauss1.txt)
+Parameters:
+ 0:   99.8797057255283534
+ 1:    0.0112318542205163
+ 2:  101.9004519266622992
+ 3:   67.6474680844380742
+ 4:   23.6370354778797918
+ 5:   73.4338726260067034
+ 6:  178.9212619769931507
+ 7:   18.9984074019348874
+(62 best updates, 200020 function calls, time: 29.429 seconds)
+
+
+Minimum mean total squared error: 81.919131174  (gauss1.txt)
+Parameters:
+ 0:   73.5613838684701449
+ 1:    0.0055651058918487
+ 2:   96.4590351042199501
+ 3:   65.5432532851509819
+ 4:   23.8880238542471339
+ 5:   60.9183715872231275
+ 6:  178.8379131290423345
+ 7:   15.0756075472172704
+(86 best updates, 200020 function calls, time: 29.915 seconds)
+
+
+Minimum mean total squared error: 22.491391645  (gauss1.txt)
+Parameters:
+ 0:   91.4373331480272356
+ 1:    0.0078891547352257
+ 2:   95.5153785496292045
+ 3:   66.5826220316042736
+ 4:   22.3604067429716515
+ 5:   66.4130689970493933
+ 6:  178.7862748800411623
+ 7:   16.0635802259944498
+(149 best updates, 200020 function calls, time: 29.443 seconds)
+
+
+Minimum mean total squared error: 6.872691105  (gauss1.txt)
+Parameters:
+ 0:   96.4698082849707959
+ 1:    0.0096166770458879
+ 2:   99.3779796014539585
+ 3:   67.2993297662648615
+ 4:   22.5866880533510930
+ 5:   70.4148608734778634
+ 6:  179.3012953791503321
+ 7:   17.6761756384642048
+(107 best updates, 200020 function calls, time: 29.618 seconds)
+
+
+Minimum mean total squared error: 7.028022786  (gauss1.txt)
+Parameters:
+ 0:   99.8188992455558548
+ 1:    0.0115559544645877
+ 2:  102.6946153189574886
+ 3:   67.5809200577426594
+ 4:   23.9037937523581121
+ 5:   73.4970839882706173
+ 6:  178.9523372555190122
+ 7:   19.3407077209100677
+(68 best updates, 200020 function calls, time: 29.080 seconds)
+
+
+Minimum mean total squared error: 5.327733115  (gauss2.txt)
+Parameters:
+ 0:   97.4359304119590774
+ 1:    0.0105991802143853
+ 2:  100.5033957798021191
+ 3:  107.1859637168888355
+ 4:   23.8369795370907376
+ 5:   71.7118353010760643
+ 6:  153.2427104825522122
+ 7:   19.0180596754506865
+(106 best updates, 200020 function calls, time: 29.511 seconds)
+
+
+Minimum mean total squared error: 6.210854983  (gauss2.txt)
+Parameters:
+ 0:   99.8187864302936276
+ 1:    0.0118840810457972
+ 2:  103.9077018858844923
+ 3:  107.1185732220687612
+ 4:   24.3196569822435968
+ 5:   73.1742082903653142
+ 6:  153.8413173880219915
+ 7:   19.7288433087750938
+(86 best updates, 200020 function calls, time: 29.556 seconds)
+
+
+Minimum mean total squared error: 9.979361589  (gauss2.txt)
+Parameters:
+ 0:   99.8503971059548974
+ 1:    0.0128014176318052
+ 2:  106.1351812081372401
+ 3:  106.8318052158812463
+ 4:   24.9731802508627503
+ 5:   74.7119807747305202
+ 6:  153.9085288141775720
+ 7:   19.7886376349283104
+(54 best updates, 200020 function calls, time: 29.448 seconds)
+
+
+Minimum mean total squared error: 19.052965985  (gauss2.txt)
+Parameters:
+ 0:   89.8269817247614952
+ 1:    0.0081544176524798
+ 2:   95.3255326122075246
+ 3:  107.6304614646938234
+ 4:   22.9182908823895595
+ 5:   66.3128719741105215
+ 6:  153.0319977920144083
+ 7:   17.5948190826232533
+(62 best updates, 200020 function calls, time: 29.587 seconds)
+
+
+Minimum mean total squared error: 32.731455748  (gauss2.txt)
+Parameters:
+ 0:   86.2117591154203780
+ 1:    0.0072496146629620
+ 2:   93.7089444202315889
+ 3:  107.4481607814272337
+ 4:   22.3654493949047968
+ 5:   64.2698023960129916
+ 6:  152.4469301323156287
+ 7:   17.2564067065133706
+(72 best updates, 200020 function calls, time: 29.641 seconds)
+
+
+Minimum mean total squared error: 15.852498889  (hahn1.txt)
+Parameters:
+ 0:    0.0008617169026373
+ 1:   -0.9998083089547860
+ 2:    0.0018485227284256
+ 3:    0.8759657315167240
+ 4:    0.9955426121160800
+ 5:    0.9993791503487935
+ 6:    0.0529424072051998
+(66 best updates, 200020 function calls, time: 31.790 seconds)
+
+
+Minimum mean total squared error: 30.884799350  (hahn1.txt)
+Parameters:
+ 0:    1.9976771583795134
+ 1:    0.9983605504234845
+ 2:    0.9991962720866134
+ 3:   -0.9995040986061263
+ 4:   -0.9954056225909202
+ 5:    0.0029769661798065
+ 6:   -0.0693030490251842
+(53 best updates, 200020 function calls, time: 32.506 seconds)
+
+
+Minimum mean total squared error: 17.751512705  (hahn1.txt)
+Parameters:
+ 0:    0.0024555189070936
+ 1:   -0.9985338705291829
+ 2:    0.0010906413361020
+ 3:    0.9979656824544336
+ 4:    0.9991260234892740
+ 5:    0.9999772219454711
+ 6:    0.0632251078388826
+(99 best updates, 200020 function calls, time: 32.526 seconds)
+
+
+Minimum mean total squared error: 30.768071267  (hahn1.txt)
+Parameters:
+ 0:    1.9989319386677646
+ 1:    0.9982080086062350
+ 2:    0.9979985164984414
+ 3:   -0.9710244508416239
+ 4:   -0.9999208708827538
+ 5:    0.0004180911034727
+ 6:   -0.0674000936302077
+(54 best updates, 200020 function calls, time: 31.522 seconds)
+
+
+Minimum mean total squared error: 16.375664930  (hahn1.txt)
+Parameters:
+ 0:    0.0025619445161700
+ 1:   -0.9976162382924121
+ 2:    0.0002168202239361
+ 3:    0.9263415447376908
+ 4:    0.9957546505593755
+ 5:    0.9991054598863864
+ 6:    0.0556080948351707
+(60 best updates, 200020 function calls, time: 31.740 seconds)
+
+
+Minimum mean total squared error: 0.005629122  (sinexp.txt)
+Parameters:
+ 0:   -1.9866137939472974
+ 1:   -3.0078024178501561
+ 2:   19.9711609364472338
+ 3:    7.9915984378999338
+ 4:    0.6045441456454155
+(59 best updates, 200020 function calls, time: 20.054 seconds)
+
+
+Minimum mean total squared error: 0.001347519  (sinexp.txt)
+Parameters:
+ 0:   -2.0102194082570146
+ 1:   -2.9971211622465130
+ 2:   20.0093841510868202
+ 3:    8.0045575808963534
+ 4:    0.6002214278348593
+(52 best updates, 200020 function calls, time: 19.565 seconds)
+
+
+Minimum mean total squared error: 0.001207560  (sinexp.txt)
+Parameters:
+ 0:    1.9924219133636534
+ 1:    3.0045224317965218
+ 2:   19.9895056723043822
+ 3:    8.0000916182438502
+ 4:    0.6025068915313149
+(61 best updates, 200020 function calls, time: 19.924 seconds)
+
+
+Minimum mean total squared error: 0.001348012  (sinexp.txt)
+Parameters:
+ 0:   -1.9853142264164694
+ 1:   -2.9977180845556783
+ 2:   19.9540480667031552
+ 3:    8.0044636537884095
+ 4:    0.6019667014913358
+(62 best updates, 200020 function calls, time: 19.711 seconds)
+
+
+Minimum mean total squared error: 0.001393288  (sinexp.txt)
+Parameters:
+ 0:    2.0139075947456391
+ 1:    2.9999938990201489
+ 2:   20.0084082288096603
+ 3:    8.0052038656677524
+ 4:    0.5999672748687518
+(62 best updates, 200020 function calls, time: 19.543 seconds)
+
+
+Minimum mean total squared error: 8383.137128791  (thurber.txt)
+Parameters:
+ 0: 1310.5298391015126072
+ 1: 1289.5696763021117022
+ 2:  528.5848751534169878
+ 3:   93.0822821815372663
+ 4:    0.5778875773038866
+ 5:    0.3854452310011286
+ 6:    0.1698934026618442
+(64 best updates, 200020 function calls, time: 24.064 seconds)
+
+
+Minimum mean total squared error: 1719.682711113  (thurber.txt)
+Parameters:
+ 0: 1321.3258686426768236
+ 1:  888.9491752476537840
+ 2:  448.5653814480224355
+ 3:   95.0554349301025070
+ 4:    0.4530942971640165
+ 5:    0.4938304794188311
+ 6:    0.0002611809063220
+(69 best updates, 200020 function calls, time: 24.128 seconds)
+
+
+Minimum mean total squared error: 2391.966130412  (thurber.txt)
+Parameters:
+ 0: 1313.0811397110721828
+ 1:  583.2248204921105526
+ 2:  298.0455890821340290
+ 3:   80.2108177325921332
+ 4:    0.1651369236243145
+ 5:    0.4150632726597445
+ 6:    0.0003203439439584
+(51 best updates, 200020 function calls, time: 23.956 seconds)
+
+
+Minimum mean total squared error: 2278.691812774  (thurber.txt)
+Parameters:
+ 0: 1318.3020623588481612
+ 1:  655.6050000896872234
+ 2:  375.3784057117017596
+ 3:   98.1216056138978416
+ 4:    0.2327584297278300
+ 5:    0.4812746874406234
+ 6:    0.0002579688738272
+(80 best updates, 200020 function calls, time: 24.248 seconds)
+
+
+Minimum mean total squared error: 575.990126452  (thurber.txt)
+Parameters:
+ 0: 1305.7570271448778385
+ 1: 1155.9248913918297603
+ 2:  412.2762488388691509
+ 3:   52.8430466475619340
+ 4:    0.7000727803490789
+ 5:    0.3632777775177570
+ 6:    0.0035419663396093
+(35 best updates, 200020 function calls, time: 23.918 seconds)
+

@@ -1,0 +1,259 @@
+Source code for the book "Practical Swarm Intelligence in Python"
+-----------------------------------------------------------------(10-Sep-2021)
+
+The source code is all Python 3 and organized by experiment.  Data
+files are also included.
+
+The assumed operating environment is an Ubuntu 18.04 or later with
+NumPy, sklearn, and skimage installed.  Chapter 11 (music) has additional
+software requirements, see the text.
+
+Files:
+
+    basic/
+        de_dispersion_plot.py
+        de_gaussian_5d_plot.py
+        de_gaussian_5d.py
+        de_gaussian_cr.py
+        de_gaussian_f.py
+        de_gaussian.py
+        de_particles_iterations_plot.py
+        de_particles_iterations.py
+        de_pso_particles_iterations_plot.py
+        dispersion_plot.py
+        fxy_convergence.py
+        fxy_failures.py
+        fxy_gaussian_algs.py
+        fxy_gaussian_ga_100_1000_ri_results.py
+        fxy_gaussian_ga_100_100_ri_results.py
+        fxy_gaussian_ga_200_100_ri.py
+        fxy_gaussian_ga_20_1000_ri.py
+        fxy_gaussian_ga_20_1000_ri_results.py
+        fxy_gaussian_ga_20_100_ri_results.py
+        fxy_gaussian_ga_cr.py
+        fxy_gaussian_ga_eta.py
+        fxy_gaussian_ga_f.py
+        fxy_gaussian_ga_multi.py
+        fxy_gaussian_ga.py
+        fxy_gaussian_ga_tuned.py
+        fxy_gaussian.py
+        fxy_precision2.py
+        fxy_precision.py
+        fxy_pso_precision.py
+        fxy.py
+        fxy_runtime.py
+        jaya_5d.py
+        means.py
+        points_plot.py
+        pso_particles_iterations.py
+
+    cell/
+        analysis_points.py
+        analysis.py
+        cell.py
+        experiments_points.py
+        experiments.py
+        maps
+        points.py
+        towers
+        towers1
+        towers2
+        towers3
+
+    cell/maps/
+        map_00.png
+        map_01.png
+        map_02.png
+        map_03.png
+        map_04.png
+        map_512x512.png
+
+    curves/
+        curves_plot.py
+        curves.py
+        make_sample_plot.py
+        NIST
+        sample_plot.png
+        sample.txt
+        test_functions_MSE_means.py
+        test_functions_MSE_results.txt
+        test_functions.py
+        test_functions_results.txt
+
+    curves/NIST/
+        bennett5.dat
+        bennett5.txt
+        chwirut1.dat
+        chwirut1.txt
+        eckerle4.dat
+        eckerle4.txt
+        ENSO.dat
+        ENSO.txt
+        gauss1.dat
+        gauss1.txt
+        gauss2.dat
+        gauss2.txt
+        hahn1.dat
+        hahn1.txt
+        make_sinexp.py
+        README.txt
+        sinexp.txt
+        thurber.dat
+        thurber.txt
+
+    images/
+        add.py
+        enhance
+        fmri_rtk
+        kmeans
+        kmeans.py
+        kmeans_test_images.py
+        merge_test_images.py
+        mri_frames
+        rigid_pairs.py
+        rigid.py
+        rigid_scale.py
+        score_kmeans_images.py
+        score_test_images.py
+        segment.py
+        segment_test_images.py
+        sharpness.py
+        test_images
+
+    images/enhance/
+        barbara_merged.png
+        boat_merged.png
+        cameraman_merged.png
+        enhance.py
+        extract_scores.py
+        fruits_merged.png
+        goldhill_merged.png
+        lena_merged.png
+        merge.py
+        peppers_merged.png
+        process_images_ga.py
+        process_images.py
+        results
+        scores.png
+        zelda_merged.png
+
+    images/test_images/
+        barbara.png
+        boat.png
+        cameraman.png
+        fruits.png
+        goldhill.png
+        lena.png
+        peppers.png
+        zelda.png
+
+    knapsack/
+        brute_force.py
+        examples
+        knapsack.py
+        problem_generator.py
+        test_knapsack
+
+    music/
+        analysis_maker.py
+        analysis_match.py
+        analysis_merge.py
+        bach
+        experiments_maker.py
+        experiments_match.py
+        experiments_merge.py
+        happy.mid
+        happy.npy
+        mary.mid
+        mary.npy
+        melody_maker.py
+        melody_match.py
+        melody_merge.py
+        midi_dump.py
+        ode.mid
+        ode.npy
+        results
+
+    music/bach/
+        Bach_Chorale_0.npy
+        Bach_Chorale_1.npy
+        Bach_Chorale_2.npy
+        Bach_Chorale_3.npy
+        Bach_Chorale_4.npy
+        Bach_Chorale_5.npy
+        Bach_Chorale_6.npy
+        Bach_Chorale_7.npy
+        Bach_Chorale_8.npy
+        Bach_Chorale_9.npy
+        Bach_MIDI.zip
+        mid
+        README.txt
+
+    nn/
+        download_dataset.py
+        nn.py
+        nn_xtrn.npy
+        nn_xtst.npy
+        nn_ytrn.npy
+        nn_ytst.npy
+        rank_results.py
+        results
+        test_nn
+
+    store/
+        item_counts.npy
+        item_names.npy
+        make_products.py
+        per_shopper.py
+        product_cost_plot.py
+        product_order.py
+        products.pkl
+        README.txt
+        results
+        shoppers
+        store_analysis.py
+        store_convergence.py
+        store_de_ro_prices.py
+        store_eta_analysis.py
+        store_eta_experiments
+        store_experiments
+        store.py
+        store_results
+        store_ro.py
+        store_save.py
+        store_shoppers.py
+        store_shop.py
+
+    test_functions/
+        beale.py
+        easom.py
+        rastrigin.py
+        rosenbrock_de_plot.py
+        rosenbrock_de.py
+        rosenbrock_de_results_log_run3.png
+        rosenbrock_de_results.npy
+        rosenbrock_de_results.png
+        rosenbrock_de_results_run2.npy
+        rosenbrock_de_results_run2.png
+        rosenbrock_de_results_run2.txt
+        rosenbrock_de_results_run3.npy
+        rosenbrock_de_results_run3.png
+        rosenbrock_de_results_run3.txt
+        rosenbrock_de_results.txt
+        rosenbrock.py
+        sphere.py
+        test_beale.pkl
+        test_beale_summary.txt
+        test_de_toggle_sphere.pkl
+        test_easom.pkl
+        test_easom_summary.txt
+        test_functions
+        test_functions.py
+        test_functions_results.py
+        test_rastrigin.pkl
+        test_rastrigin_summary.txt
+        test_rosenbrock.pkl
+        test_rosenbrock_summary.txt
+        test_sphere.pkl
+        test_sphere_summary.txt
+

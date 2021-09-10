@@ -1,0 +1,25 @@
+rkneusel@frodo:/home/rkneusel/projects/swarms/src/music> rm -rf qqq; python3 melody_merge.py mary.npy happy.npy 0.5 qqq 20 10000 PSO
+Storing final melody, time = 35.739 seconds
+
+    62,0.75 61,0.75 61,1.00 61,1.00 64,1.00 64,1.50 62,1.25 61,0.75 62,1.00 61,1.50 65,1.00 66,1.00
+
+rkneusel@frodo:/home/rkneusel/projects/swarms/src/music> rm -rf qqq0; python3 melody_merge.py mary.npy happy.npy 0.5 qqq0 20 10000 PSO
+Storing final melody, time = 36.359 seconds
+
+    62,1.00 61,0.75 61,1.00 61,1.00 64,1.00 64,1.50 62,1.25 61,0.75 62,1.00 61,1.25 65,1.00 66,1.00
+
+rkneusel@frodo:/home/rkneusel/projects/swarms/src/music> rm -rf qqq1; python3 melody_merge.py mary.npy happy.npy 0.5 qqq1 20 10000 PSO
+Storing final melody, time = 35.978 seconds
+
+    62,0.75 61,0.75 61,1.00 61,1.00 64,1.00 64,1.50 62,1.25 61,0.75 62,1.00 61,1.50 66,1.00 66,1.00
+
+rkneusel@frodo:/home/rkneusel/projects/swarms/src/music> rm -rf qqq2; python3 melody_merge.py mary.npy happy.npy 0.5 qqq2 20 10000 PSO
+Storing final melody, time = 36.340 seconds
+
+    62,1.00 61,0.75 61,1.00 61,1.00 64,1.00 64,1.50 62,1.25 61,0.75 62,1.00 61,1.50 66,1.25 66,1.00 
+
+rkneusel@frodo:/home/rkneusel/projects/swarms/src/music> rm -rf qqq3; python3 melody_merge.py mary.npy happy.npy 0.5 qqq3 20 10000 PSO
+Storing final melody, time = 37.084 seconds
+
+    62,1.00 61,0.75 61,1.00 61,1.00 65,1.00 64,1.50 62,1.25 61,0.75 62,1.00 61,1.50 66,1.00 66,1.00 
+

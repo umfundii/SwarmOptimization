@@ -1,0 +1,7 @@
+#  Standard test functions
+python3 test_functions.py beale 30 2000 test_beale.pkl
+python3 test_functions.py easom 30 2000 test_easom.pkl
+python3 test_functions.py sphere 30 2000 test_sphere.pkl
+python3 test_functions.py rastrigin 30 2000 test_rastrigin.pkl
+python3 test_functions.py rosenbrock 30 2000 test_rosenbrock.pkl
+
